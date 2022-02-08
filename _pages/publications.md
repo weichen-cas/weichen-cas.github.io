@@ -3,94 +3,198 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-googlescholar: https://scholar.google.com/citations?user=fAc_zZMAAAAJ&hl=en
+googlescholar: https://scholar.google.com/citations?user=y0lN_XsAAAAJ&hl=en
 ---
 
 {% if author.googlescholar %}
-  You can also find my recent publications on <u><a href=https://scholar.google.com/citations?user=fAc_zZMAAAAJ&hl=en>my Google Scholar profile</a>.</u>
+  You can also find my recent publications on <u><a href=https://scholar.google.com/citations?user=y0lN_XsAAAAJ&hl=en>my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
-You can also find my recent publications on my [Google Scholar profile](https://scholar.google.com/citations?user=fAc_zZMAAAAJ&hl=en).
+You can also find my recent publications on my [Google Scholar profile](https://scholar.google.com/citations?user=y0lN_XsAAAAJ&hl=en).
 
-Conferences
-======
-* Disentangled Spatiotemporal Graph Generative Model.  
-**Yuanqi Du**\*, Xiaojie Guo\*, Hengning Cao, Yanfang Ye, Liang Zhao.  
-In Thirty-Sixth AAAI Conference on Artificial Intelligence (**AAAI**) 2022.  
-Presented in *NeurIPS* 2021 DGMs workshop.
-* Interpretable Molecular Graph Generation via Monotonic Constraints.  
-**Yuanqi Du**\*, Xiaojie Guo\*, Amarda Shehu, Liang Zhao.  
-In SIAM International Conference on Data Mining (**SDM**) 2022.  
-Presented in ML4Molecules workshop 2021.
-* Semi-supervised Pseudo-healthy Image Synthesis via Confidence Augmentation.  
-**Yuanqi Du**, Quan Quan, Hu Han, S. Kevin Zhou.  
-In International Symposium on Biomedical Imaging (**ISBI**) 2022.
-* [GraphGT: Machine Learning Datasets for Graph Generation and Transformation](https://openreview.net/forum?id=NYgt9vcdyjm).  
-**Yuanqi Du**\*, Shiyu Wang\*, Xiaojie Guo, Hengning Cao, Shujie Hu, Junji Jiang, Aishwarya Varala, Abhinav Angirekula, Liang Zhao.  
-In Neural Information Processing Systems (**NeurIPS**) 2021 Datasets and Benchmarks track.
-* [Deep Generative Model for Spatial Networks](http://cs.emory.edu/~lzhao41/materials/papers/KDD21__Spatial_Graphs_Disentanglement_preprinted.pdf).  
-Xiaojie Guo\*, **Yuanqi Du**\*, Liang Zhao.  
-In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**) 2021.
-* Deep Latent-Variable Models for Controllable Molecule Generation.  
-**Yuanqi Du**, Yinkai Wang, Fardina Alam, Yuanjie Lu, Xiaojie Guo, Liang Zhao, and Amarda Shehu.  
-In IEEE International Conference on Bioinformatics and Biomedicine (**BIBM**) 2021.
-* [Property Controllable Variational Autoencoder via Invertible Mutual Dependence](https://openreview.net/forum?id=tYxG_OMs9WE).  
-Xiaojie Guo, **Yuanqi Du**, Liang Zhao.  
-In International Conference on Learning Representations (**ICLR**) 2021.
-* Deep Learning to Segment Pelvic Bones: Large-scale CT Datasets and Baseline Models.  
-Pengbo Liu, Hu Han, **Yuanqi Du**, Heqin Zhu, Yinhao Li, Feng Gu, Honghu Xiao, Jun Li, Chunpeng Zhao, Xinbao Wu, S. Kevin Zhou.  
-In International Conference on Information Processing in Computer-Assisted Interventions (**IPCAI**) 2021, published in International Journal of Computer Assisted Radiology and Surgery (**IJCARS**).
-* [Expressive ASL Recognition using Millimeter-wave Wireless Signals](http://yuanqidu.github.io/files/Expressive ASL Recognition using Millimeter-wave Wireless Signals.pdf).  
-Panneer Selvam Santhalingam, **Yuanqi Du**, Riley Wilkerson, Al Amin Hosain, Ding Zhang, Parth Pathak, Huzefa Rangwala and Raja Kushalnagar.  
-In International Conference on Sensing, Communication and Networking (**SECON**) 2020.
+Preprints
+=====
+          
+*Huishuai Zhang, Da Yu, Mingyang Yi, **Wei Chen**, and Tie-Yan Liu, [Convergence Theory of Learning Over-parameterized ResNet: A Full Characterization](https://arxiv.org/abs/1903.07120). 
+          
 
-Journals
-======
-* Generating Tertiary Protein Structures via Interpretable Graph Variational Autoencoders.  
-Xiaojie Guo\*, **Yuanqi Du**\*, Sivani Tadepalli, Liang Zhao, Amarda Shehu.  
-In **Bioinformatics Advances** 2021.
+*Qi Meng, Shiqi Gong, **Wei Chen**, Zhi-Ming Ma, and Tie-Yan Liu,  [Dynamics of SGD with State-dependent Noise](https://arxiv.org/abs/1903.07120).
+		  
+	      
+Books
+=====
+*Tie-Yan Liu, **Wei Chen**, Taifeng Wang, Fei Gao,Distributed Machine Learning:  Algorithms, Theory, and Practice.
+*China Machine Press*, 2018 ([ISBN 978-7-111-60918-6](https://item.jd.com/12444377.html), in Chinese).  
+          
+ ***Wei Chen**, Tao Qin, Weidong Ma, and Tie-Yan Liu. Advances in Ad Auction Mechanism Design for Sponsored Search,
+Book chapter in Multi-Agent System and its Applications. *Tsinghua University Press*, Beijing, 2015 (ISBN 978-7-302-40252-7, in Chinese).
+           
 
-* [Generative Adversarial Learning of Protein Tertiary Structures](https://www.mdpi.com/1420-3049/26/5/1209).  
-Taseef Rahman, **Yuanqi Du**, Liang Zhao, Amarda Shehu.  
-In **Molecules** 2021, 26(5), 1209.
+Conference/Journal Papers
+=====	  
+*Chongchong Li, Yue Wang, **Wei Chen**, Yuting Liu, Zhi-Ming Ma, and Tie-Yan Liu, Gradient Information Matters in Policy Optimization by Back-propagating through Model.
+* The 10th International Conference on Learning Representations*, 2022.  
+		  
+		
+*Ziming Liu, Bohan Wang, Qi Meng, **Wei Chen**, Max Tegmark, Tie-Yan Liu, Machine-Learning Non-conservative Dynamics for New-Physics Detection,
+Accepted by *Physical Review E*, 2021. 
+          
 
+*Bohan Wang, Huishuai Zhang, Jieyu Zhang, Qi Meng, **Wei Chen**, Tie-Yan Liu, Optimizing Information-theoretic Generalization Bound via Anisotropic Noise of SGLD,
+*Advances in Neural Information Processing Systems 35 (NeurIPS)*, 2021. 
+          
+		
+*Xinwei Sun, Botong Wu, Xiangyu Zheng, Chang Liu, **Wei Chen**, Tao Qin, and Tie-Yan Liu, Recovering Latent Causal Factor for Generalization to Distributional Shifts,
+*Advances in Neural Information Processing Systems 35 (NeurIPS)*, 2021.
 
-Workshops
-======
-* Interpreting Molecular Space with Deep Generative Models.  
-**Yuanqi Du**, Xian Liu, Shengchao Liu, Jieyu Zhang, Bolei Zhou.  
-In ML4Molecules workshop 2021. (**oral**)
-* [Physics-Augmented Learning: A New Paradigm Beyond Physics-Informed Learning](https://arxiv.org/abs/2109.13901).  
-Ziming Liu, Yunyue Chen, **Yuanqi Du**, Max Tegmark.  
-In *NeurIPS* AI for Science workshop 2021.  
-* Graph-based Ensemble Machine Learning for Student Performance Prediction.  
-Yinkai Wang\*, Aowei Ding\*, Kaiyi Guan\*, Shixi Wu, **Yuanqi Du**.  
-In *AAAI* AI for Education workshop 2022.
-In *AAAI* Deep Learning on Graphs workshop 2022.
+*Chang Liu, Xinwei Sun, Jindong Wang, Haoyue Tang, Tao Li, Tao Qin, **Wei Chen**, Tie-Yan Liu, Learning Causal Semantic Representation for out-of-distribution Prediction,
+*Advances in Neural Information Processing Systems 35 (NeurIPS)*, 2021.
+		    
+*Xiaobo liang, Lijun Wu, Juntao Li, Yue Wang, Qi Meng, Tao Qin, **Wei Chen**, Min Zhang, Tie-Yan Liu, R-Drop: Regularized Dropout for Neural Networks,
+*Advances in Neural Information Processing Systems 35 (NeurIPS)*, 2021.
+                    
+*Bohan Wang, Qi Meng, **Wei Chen**, and Tie-Yan Liu, The Implicit Bias for Adaptive Optimization Algorithms on Homogeneous Neural Networks,
+*In Proceedings of the  38th International Conference on Machine Learning (ICML)* with long presentation, 2021.
+                     
+*Da Yu, Huishuai Zhang, **Wei Chen**, Jian Yin, and Tie-Yan Liu, Large Scale Private Learning via Low-rank Reparametrization,
+*In Proceedings of the 38th International Conference on Machine Learning  (ICML)*, 2021.
+                   
+*Xufang Luo, Qi Meng, **Wei Chen**, Yunhong Wang, and Tie-Yan Liu, Path-BN: Towards Effective Batch Normalization in the Path Space for ReLU Networks,
+*In Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence (UAI)*, 2021.
+                     
+*Juanping Zhu, Qi Meng, **Wei Chen**, Yue Wang, and Zhi-Ming Ma, Interpreting the Basis Path Set in Neural Networks,
+*Journal of System Science and Complexity*, 2021.
+                    
+*Da Yu, Huishuai Zhang, **Wei Chen**, Jian Yin, and Tie-Yan Liu, Do not Let Privacy Overbill Utility: Gradient Embedding Perturbation for Private Learning,
+*In Proceedings of the 9th International Conference of Learning Representations (ICLR)*, 2021.
+                     
+*Da Yu, Huishuai Zhang, **Wei Chen**, Jian Yin, and Tie-Yan Liu, How Does Data Augmentation Affect Privacy in Machine Learning?
+*In Proceedings of the 35th International Association for the Advancement of Artificial Intelligence Conference (AAAI)*, 2021.
+                   
+*Juanping Zhu, Qi Meng, **Wei Chen**, and Zhi-Ming Ma, Interpreting the Basis Path Set in Neural Networks,
+*Journal of System Science and Complexity*, Vol(33):1-13, 2020.
+                    
+*Da Yu, Huishuai Zhang, **Wei Chen**, Jian Yin, and Tie-Yan Liu, Gradient Perturbation is Underrated for Differentially Private Convex Optimization,
+*In Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI)*, 2020.
+                  
+*Xufang Luo, Qi Meng, Di He, **Wei Chen**, and Yonghong Wang, I4R: Promoting Deep Reinforcement Learning by the Indicator for Expressive Representations,
+*In Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI)*, 2020.
+                   
+*Ling Pan, Qingpeng Cai, Qi Meng, **Wei Chen**, and Longbo Huang, Reinforcement Learning with Dynamic Boltzmann Softmax Updates,
+*In Proceedings of the 30th International Joint Conference on Artificial Intelligence (IJCAI)*, 2020.
+                 
+*Shicong Cen, Huishuai Zhang, Yuejie Chi, **Wei Chen**, and Tie-Yan Liu, Convergence of Distributed Stochastic Variance Reduced Methods without Sampling Extra Data,
+*IEEE Transactions on Signal Processing*, 2020.
+                 
+*Mingyang Yi, Huishuai Zhang, **Wei Chen**, Zhi-Ming Ma, and Tie-Yan Liu, BN-invariance Sharpness Regularizes the Training Model to Better Generalization,
+*In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI)*, 2019.
+                  
+*Qi Meng*, Shuxin Zheng*, Huishuai Zhang, **Wei Chen**, Zhi-Ming Ma, and Tie-Yan Liu, G-SGD: Optimizing ReLU Neural Networks in its Positively Scale-Invariant Space,
+*In Proceedings of the 7th International Conference of Learning Representations (ICLR)*, 2019, [Code](https://github.com/MSRA-COLT/gsgd). 
+                  
+*Li He, Shuxin Zheng, **Wei Chen**, Zhi-Ming Ma, and Tie-Yan Liu, OptQuant: Distributed Training of Neural Networks with Optimized Quantization Mechanism,
+*NeuroComputing*, 2019.
+                 
+*Shuxin Zheng, Qi Meng, Huishuai Zhang, **Wei Chen**, and Tie-Yan Liu, Capacity Control of ReLU Neural Networks by Basis-path Norm,
+*In Proceedings of the 33rd International Association for the Advancement of Artificial Intelligence Conference (AAAI)*, 2019.
+                  
+*Qi Meng, **Wei Chen**, Zhi-Ming Ma, and Tie-Yan Liu, Convergence Analysis of Distributed Stochastic Gradient Descent with Shuffling,
+*NeuroComputing, 2019*.
+                  
+*Huishuai Zhang, **Wei Chen**, and Tie-Yan Liu, On the Local Hessian in Back-propagation,
+*In Advances in Neural Information Processing Systems 32 (NeurIPS)*, 2018.
+                   
+*Da Yu, Huishuai Zhang, and **Wei Chen**, Improving Gradient Perturbation for Differentially Private Optimization,
+*NeurIPS Workshop on Privacy Preserving Machine Learning</*i>, 2018.
+                   
+*Zhuohan Li, Di He, Fei Tian, **Wei Chen**, Tao Qin, Liwei Wang, and Tie-Yan Liu, Towards Binary-Valued Gates for Robust LSTM Training,
+*In Proceeding of the 35th International Conference on Machine Learning （ICML)*, 2018.
+                   
+*Li He, Qi Meng, **Wei Chen**, Zhi-Ming Ma, and Tie-Yan Liu, Differential Equations for Modeling Asynchronous Algorithms,
+*In Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI)*, 2018.
+                 
+*Shizhao Sun, **Wei Chen**, Jiang Bian, Xiaoguang Liu, and Tie-Yan Liu, Slim-DP: A Multi-Agent System for Communication-Efficient Distributed Deep Learning,
+*In Proceeding of the 17th International Conference on Autonomous Agents and Multiagent Systems (AAMAS)*, 2018.
+                  
+*Yue Wang, **Wei Chen**, Yuting Liu, Zhi-Ming Ma, and Tie-Yan Liu, Finite Sample Analysis of GTD Policy Evaluation Algorithms in Markov Setting,
+*In Advances in Neural Information Processing Systems 31 (NeurIPS)*, 2017.
+                 
+*Guolin Ke, Qi Meng, Taifeng Wang, **Wei Chen**, Weidong Ma, Tie-Yan Liu, LightGBM: A Highly Efficient Gradient Boosting Decision Tree,
+*In Advances in Neural Information Processing Systems 31 (NeurIPS)*, 2017.
+                  
+*Yingce Xia, Tao Qin, **Wei Chen** and Tie-Yan Liu, Dual Supervised Learning,
+*In Proceeding of the 34th International Conference on Machine Learning (ICML)*, 2017.
+                  
+*Shuxin Zheng\*, Qi Meng\*, Taifeng Wang, **Wei Chen**, Zhi-Ming Ma and Tie-Yan Liu, Asynchronous Stochastic Gradient Descent with Delay Compensation,
+*In Proceeding of the 34thInternational Conference on Machine Learning (ICML)*, 2017.
+                  
+*Shizhao Sun, **Wei Chen**, Jiang Bian, Xiaoguang Liu and Tie-Yan Liu, Ensemble-Compression: A New Method for Parallel Training of Deep Neural Networks,
+*European Conference on Machine Learning (ECML)*, 2017.
+                  
+*Quanming Yao, James Kwok, Fei Gao, **Wei Chen**, and Tie-Yan Liu, Efficient Inexact Proximal Gradient Algorithm for Nonconvex Problems,
+*In Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI)*, 2017.
+                  
+*Qi Meng, **Wei Chen**, Jingcheng Yu, Taifeng Wang, Zhi-Ming Ma and Tie-Yan Liu, Asynchronous Stochastic Proximal Optimization Algorithms with Variance Reduction,
+*Proceedings of the 31st International Association for the Advancement of Artificial Intelligence Conference (AAAI)*, 2017.
+                 
+*Qi Meng, Yue Wang, **Wei Chen**, Taifeng Wang, Zhi-Ming Ma and Tie-Yan Liu, Generalization Error Bounds for Optimization Algorithms via Stability,
+*Proceedings of the 31st International Association for the Advancement of Artificial Intelligence Conference (AAAI)*, 2017.
+                   
+*Qi Meng, Guolin Ke, Taifeng Wang, **Wei Chen**, Qiwei Ye, Zhi-Ming Ma, and Tie-Yan Liu, A Communication-efficient Parallel Algorithms for Decision Tree,
+*Advances in Neural Information Processing Systems 30 (NeurIPS)*, 2016.
+                  
+*Qi Meng, **Wei Chen**, Jingcheng Yu, Taifeng Wang, Zhi-Ming Ma, and Tie-Yan Liu, Asynchronous Accelerated Stochastic Gradient Descent,
+*In Proceedings of the 26th International Joint Conference on Artificial Intelligence (IJCAI)*, 2016.
+                  
+***Wei Chen**, Tie-Yan Liu, and Xinxin Yang, Reinforcement Learning Behaviors in Sponsored Search,
+*Applied Stochastic Models in Business and Industry (ASMB)*,2016.
+                  
+*Shizhao Sun, **Wei Chen**, Liwei Wang, Xiaoguang Liu, and Tie-Yan Liu, On the Depth of Deep Neural Networks: A Theoretical View,
+*In Proceedings of the 30th International Association for the Advancement of Artificial Intelligence Conference (AAAI)*, 2016.
+                  
+		
+*Tie-Yan Liu, **Wei Chen**, and Tao Qin, Mechanism Learning with Mechanism Induced Data, Senior Member Track,
+*In Proceedings of the 29th International Association for the Advancement of Artificial Intelligence Conference (AAAI)*, 2015.
+                  
+*Haifang Li, Tian Fei, **Wei Chen**, Tao Qin, Zhiming Ma, and Tie-Yan Liu, Generalization Analysis for Game-Theoretic Machine Learning,
+*Proceedings of the 29th International Association for the Advancement of Artificial Intelligence Conference (AAAI)*, 2015.
+                 
+*Tao Qin, **Wei Chen**, and Tie-Yan Liu, Sponsored Search Auctions: Recent Advances and Future Directions,
+*ACM Transactions on Intelligent Systems and Technology (TIST)*,5 (4), 2014.
+                 
+***Wei Chen**, Di He, Tie-Yan Liu, Tao Qin, Yixin Tao, and Liwei Wang, Generalized Second Price Auction with Probabilistic Broad Match,
+*In Proceedings of the 15th ACM Conference on Economics and Computation (EC)*, Pages 39-56, 2014.
+                  
+*Fei Tian, Haifang Li, **Wei Chen**, Tao Qin and Tie-Yan Liu, Agent Behavior Prediction and Its Generalization Analysis,
+*In Proceedings of the 28th International Association for the Advancement of Artificial Intelligence Conference (AAAI)*, Pages 1300-1306, 2014.
+                  
+*Jun Feng, Jiang Bian, Taifeng Wang, **Wei Chen**, Xiaoyan Zhu and Tie-Yan Liu, Sampling Dilemma: Towards Effective Data Sampling for Click Prediction in Sponsored Search,
+*In Proceedings of 7th ACM Conference on Web Search and Data Mining (WSDM)*, Pages 130-112, 2014.
+                  
+*Di He, **Wei Chen**, Liwei Wang, and Tie-Yan Liu, Online Learning for Auction Mechanism in Bandit Setting,
+*Decision Support Systems (DSS)*, Vol 56, Pages 379-386, 2013.
+                  
+*Di He, **Wei Chen**, Liwei Wang, and Tie-Yan Liu, Probabilistic Broad Match for Sponsored Search Auctions,
+*EC AdAuction Workshop* 2013.
+                  
+*Yining Wang, Liwei Wang, Yuanzhi Li, Di He, **Wei Chen**, and Tie-Yan Liu, A Theoretical Analysis of NDCG Type Ranking Measures,
+*In Proceedings of the 26th Annual Conference on Learning Theory (COLT)*, Pages 25-54,2013
+                 
+*Di He, **Wei Chen**, Liwei Wang, Tie-Yan Liu, A Game-theoretic Machine Learning Approach for Revenue Maximization in Sponsored Search,
+*In Proceedings of the 23rd International Joint Conference on Artificial Intelligence (IJCAI)*, Pages 206-212, 2013.
+                  
+*Lei Yao, **Wei Chen**, Tie-Yan Liu. Convergence Analysis for Weighted Joint Strategy Fictitious Play in Generalized Second Price Auction,
+*Proceedings of the 10th Conference on Web and Internet Economics (WINE)*, Pages 489-495, 2012.
+                  
+***Wei Chen**, Tie-Yan Liu, and Zhi-Ming Ma, Two-Layer Generalization Analysis for Ranking Using Rademacher Average,
+*Advances in Neural Information Processing Systems 23 (NeurIPS)*, Pages 370-378, 2010.
 
-Abstracts
-======
-* [American Sign Language Recognition Using an FMCW Wireless Sensor](http://yuanqidu.github.io/files/American_Sign_Language_Recognition_Using_an_FMCW_Wireless_Sensor.pdf).  
-**Yuanqi Du**, Nguyen Dang, Riley Wilkerson, Parth Pathak, Huzefa Rangwala, Jana Kosecka.  
-In *AAAI* Conference on Artificial Intelligence (AAAI) 2020 (Student Abstract).
-
-Under review
-======
-
-* Equivariant Vector Field Network for Dynamics Modeling.  
-Weitao Du\*, He Zhang\*, **Yuanqi Du**, Wei Chen, Bin Shao, Tie-Yan Liu.
-
-* Efficient Deep Generative Models for Spatial Networks via Spanning Tree Sampler.  
-Xiaojie Guo\*, **Yuanqi Du**\*, Zheng Zhang, Liang Zhao.
-
-* ROMNet: Renovate the Old Memories.  
-Runsheng Xu\*, Zhengzhong Tu\*, **Yuanqi Du**\*, Xiaoyu Dong, Jinlong Li, Zibo Meng, Jiaqi Ma, Hongkai Yu.  
-
-Work-in-progress
-======
-* Facilitating Fundamental Science with AI.  
-AI4Science Community: Yoshua Bengio, Payal Chandak, **Yuanqi Du**, Tianfan Fu, Wenhao Gao, Shirley Ho, Kexin Huang, Joan Lasenby, Shengchao Liu, Tie-Yan Liu, Ziming Liu, Debora Marks, Irina Rish, Hanchen Wang, Adrian Weller, Max Welling, Petar Veličković, Marinka Zitnik (**in alphabetical order**)
+		  
+***Wei Chen**, Tie-Yan Liu, Yanyan Lan, and Zhi-Ming Ma, Ranking Measures and Loss functions in Learning to Rank,
+*Advances in Neural Information Processing Systems 22 (NeurIPS)*, Pages 315-323, 2009.
+			  
+          
 
 
 <!---->
