@@ -9,7 +9,7 @@ author_profile: true
 
 Ph.D. Student Under Supervision
 ======
-* [Bohan Wang](bhwangfy.github.io) (Ph.D. student in University of Science and Technology of China)
+* [Bohan Wang](https://bhwangfy.github.io) (Ph.D. student in University of Science and Technology of China)
 
 
 
