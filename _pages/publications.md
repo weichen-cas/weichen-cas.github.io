@@ -11,16 +11,7 @@ googlescholar: https://scholar.google.com/citations?user=y0lN_XsAAAAJ&hl=en
 {% endif %}
 
 {% include base_path %}
-You can also find my recent publications on my [Google Scholar profile](https://scholar.google.com/citations?user=y0lN_XsAAAAJ&hl=en).
-
-Preprints
-=====
-          
-*Huishuai Zhang, Da Yu, Mingyang Yi, **Wei Chen**, and Tie-Yan Liu, [Convergence Theory of Learning Over-parameterized ResNet: A Full Characterization](https://arxiv.org/abs/1903.07120). 
-          
-
-*Qi Meng, Shiqi Gong, **Wei Chen**, Zhi-Ming Ma, and Tie-Yan Liu,  [Dynamics of SGD with State-dependent Noise](https://arxiv.org/abs/1903.07120).
-		  
+You can also find my recent publications on my [Google Scholar profile](https://scholar.google.com/citations?user=y0lN_XsAAAAJ&hl=en).	  
 	      
 Books
 =====
@@ -194,7 +185,14 @@ Accepted by *Physical Review E*, 2021.
 * **Wei Chen**, Tie-Yan Liu, Yanyan Lan, and Zhi-Ming Ma, Ranking Measures and Loss functions in Learning to Rank,
 *Advances in Neural Information Processing Systems 22 (NeurIPS)*, Pages 315-323, 2009.
 			  
+Preprints
+=====
           
+* Huishuai Zhang, Da Yu, Mingyang Yi, **Wei Chen**, and Tie-Yan Liu, [Convergence Theory of Learning Over-parameterized ResNet: A Full Characterization](https://arxiv.org/abs/1903.07120). 
+          
+
+* Qi Meng, Shiqi Gong, **Wei Chen**, Zhi-Ming Ma, and Tie-Yan Liu,  [Dynamics of SGD with State-dependent Noise](https://arxiv.org/abs/1903.07120).
+	        
 
 
 <!---->
