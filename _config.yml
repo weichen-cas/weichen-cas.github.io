@@ -13,7 +13,7 @@ name                     : &name "Wei Chen"
 description              : &description "personal description"
 url                      : https://weichenict.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yuanqidu/yuanqidu.github.io"
+repository               : "weichen-cas/weichen-cas.github.io"
 teaser                   :  "site_logo.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -89,14 +89,14 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=y0lN_XsAAAAJ&hl=en"
   email            : "wche@microsoft.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://weichenict.github.io/"
+  uri              : "https://weichen-cas.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weichenict"
+  github           : "weichen-cas"
   google_plus      :
   keybase          :
   instagram        :
