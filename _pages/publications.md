@@ -90,7 +90,7 @@ Accepted by *Physical Review E*, 2021.
 * Mingyang Yi, Huishuai Zhang, **Wei Chen**, Zhi-Ming Ma, and Tie-Yan Liu, BN-invariance Sharpness Regularizes the Training Model to Better Generalization,
 *In Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI)*, 2019.
                   
-* Qi Meng\*, Shuxin Zheng*, Huishuai Zhang, **Wei Chen**, Zhi-Ming Ma, and Tie-Yan Liu, G-SGD: Optimizing ReLU Neural Networks in its Positively Scale-Invariant Space,
+* Qi Meng\*, Shuxin Zheng\*, Huishuai Zhang, **Wei Chen**, Zhi-Ming Ma, and Tie-Yan Liu, G-SGD: Optimizing ReLU Neural Networks in its Positively Scale-Invariant Space,
 *In Proceedings of the 7th International Conference of Learning Representations (ICLR)*, 2019, [Code](https://github.com/MSRA-COLT/gsgd). 
                   
 * Li He, Shuxin Zheng, **Wei Chen**, Zhi-Ming Ma, and Tie-Yan Liu, OptQuant: Distributed Training of Neural Networks with Optimized Quantization Mechanism,
