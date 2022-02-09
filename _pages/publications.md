@@ -15,10 +15,10 @@ You can also find my recent publications on my [Google Scholar profile](https://
 	      
 Books
 =====
-* Tie-Yan Liu, **Wei Chen**, Taifeng Wang, Fei Gao,Distributed Machine Learning:  Algorithms, Theory, and Practice.
+* Tie-Yan Liu, **Wei Chen**, Taifeng Wang, Fei Gao, Distributed Machine Learning:  Algorithms, Theory, and Practice.
 *China Machine Press*, 2018 ([ISBN 978-7-111-60918-6](https://item.jd.com/12444377.html), in Chinese).  
           
-* **Wei Chen**, Tao Qin, Weidong Ma, and Tie-Yan Liu. Advances in Ad Auction Mechanism Design for Sponsored Search,
+* **Wei Chen**, Tao Qin, Weidong Ma, and Tie-Yan Liu, Advances in Ad Auction Mechanism Design for Sponsored Search,
 Book chapter in Multi-Agent System and its Applications. *Tsinghua University Press*, Beijing, 2015 (ISBN 978-7-302-40252-7, in Chinese).
            
 
