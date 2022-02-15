@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wei Chen (陈薇) is a principal research manager in Microsoft Research Asia. She is leading the Computing and Learning Theory Group, to push the frontiers of learning and computing in AI through theoretical understandings. She is also an adjunct professor in the University of Science and Technology of China, Beijing Jiaotong University, and Nankai University. Before joined Microsoft, she obtained her Ph.D. in Mathematics from Chinese Academy of Sciences, advised by Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html).
+Wei Chen (陈薇) is a principal research manager in Microsoft Research Asia and the co-chair of [MSR Asia Theory Center](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/articles/microsoft-research-asia-establishes-theory-center-to-strengthen-theoretical-foundation-of-ai/). She is leading the Computing and Learning Theory Group, to push the frontiers of learning and computing in AI through theoretical understandings. She is also an adjunct professor in the University of Science and Technology of China, Beijing Jiaotong University, and Nankai University. Before joined Microsoft, she obtained her Ph.D. in Mathematics from Chinese Academy of Sciences, advised by Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html).
 
 **Research Interests**
   * Deep learning theory
