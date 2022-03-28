@@ -24,6 +24,9 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
 
 Conference/Journal Papers
 =====	  
+* Tianyu Pang, Huishuai Zhang, Di He, Yinpeng Dong, Hang Su, **Wei Chen**, Jun Zhu, Tie-Yan Liu, Two Coupled Rejection Metrics Can Tell Adversarial Examples Apart.
+*CVPR*, 2022.
+
 * Chongchong Li, Yue Wang, **Wei Chen**, Yuting Liu, Zhi-Ming Ma, and Tie-Yan Liu, Gradient Information Matters in Policy Optimization by Back-propagating through Model.
 *The 10th International Conference on Learning Representations*, 2022.  
 		  
