@@ -29,7 +29,10 @@ Conference/Journal Papers
 
 * Chongchong Li, Yue Wang, Wei Chen, Yuting Liu, Zhi-Ming Ma, and Tie-Yan Liu, Gradient Information Matters in Policy Optimization by Back-propagating through Model.
 *The 10th International Conference on Learning Representations(**ICLR**)*, 2022.  
-		  
+
+	
+*Sang-gil Lee, Heeseung Kim, Chaehun Shin, Xu Tan, Chang Liu, Qi Meng, Tao Qin, Wei Chen, Sungroh Yoon, Tie-Yan Liu, PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior. *The 10th International Conference on Learning Representations(**ICLR**)*, 2022. 
+	  
 		
 * Ziming Liu, Bohan Wang, Qi Meng, Wei Chen, Max Tegmark, Tie-Yan Liu, Machine-Learning Non-conservative Dynamics for New-Physics Detection,
 Accepted by **Physical Review E**, 2021. 
