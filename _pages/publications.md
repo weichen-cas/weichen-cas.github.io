@@ -40,7 +40,7 @@ Accepted by **Physical Review E**, 2021.
           
 		
 * Xinwei Sun, Botong Wu, Xiangyu Zheng, Chang Liu, Wei Chen, Tao Qin, and Tie-Yan Liu, Recovering Latent Causal Factor for Generalization to Distributional Shifts,
-*Advances in Neural Information Processing Systems 35 (NeurIPS)*, 2021.
+*Advances in Neural Information Processing Systems 35 (**NeurIPS**)*, 2021.
 
 * Chang Liu, Xinwei Sun, Jindong Wang, Haoyue Tang, Tao Li, Tao Qin, **Wei Chen**, Tie-Yan Liu, Learning Causal Semantic Representation for out-of-distribution Prediction,
 *Advances in Neural Information Processing Systems 35 (**NeurIPS**)*, 2021.
@@ -81,7 +81,7 @@ Accepted by **Physical Review E**, 2021.
 *In Proceedings of the 30th International Joint Conference on Artificial Intelligence (**IJCAI**)*, 2020.
                  
 * Shicong Cen, Huishuai Zhang, Yuejie Chi, Wei Chen, and Tie-Yan Liu, Convergence of Distributed Stochastic Variance Reduced Methods without Sampling Extra Data,
-*IEEE Transactions on Signal Processing*, 2020.
+***IEEE Transactions on Signal Processing***, 2020.
                  
 * Mingyang Yi, Huishuai Zhang, Wei Chen, Zhi-Ming Ma, and Tie-Yan Liu, BN-invariance Sharpness Regularizes the Training Model to Better Generalization,
 *In Proceedings of the 29th International Joint Conference on Artificial Intelligence (**IJCAI**)*, 2019.
