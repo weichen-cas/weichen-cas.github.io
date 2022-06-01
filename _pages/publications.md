@@ -24,6 +24,10 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
 
 Conference/Journal Papers
 =====	  
+* Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu, What Makes Your Data Unavailable to Deep Learning? *The 28th SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, 2022.
+
+*Weitao du, He Zhang, Yuanqi Du, Qi Meng, Wei Chen, Tie-Yan Liu, Nanning Zheng, Bin Shao, Equivariant Graph Neural Networks with Complete Local Frames. *In Proceedings of the 39th International Conference on Machine Learning  (**ICML**)*, 2022.
+
 * Tianyu Pang, Huishuai Zhang, Di He, Yinpeng Dong, Hang Su, Wei Chen, Jun Zhu, Tie-Yan Liu, Two Coupled Rejection Metrics Can Tell Adversarial Examples Apart.
 *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2022.
 
