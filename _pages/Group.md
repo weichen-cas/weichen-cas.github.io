@@ -10,30 +10,33 @@ I am now recruiting Ph.D. students who have great passion in fundamental researc
 
 Ph.D. Student Under Supervision
 ======
-* [王博涵](https://bhwangfy.github.io) (Ph.D. student, University of Science and Technology of China)
+* [Bohan Wang](https://bhwangfy.github.io) (Ph.D. student, University of Science and Technology of China)
+* Mingkun Zhang (Ph.D. student, University of Chinese Academy of Sciences)
+* Wei Huang (Ph.D. student, University of Chinese Academy of Sciences)
 
 
 
 Alumni
 ======
 (Long-term PhD interns, graduated)
-* 汪跃（2020, Beijing Jiaotong University）（Microsoft）
-* 何莉（2019, University of Chinese Academy of Sciences）（JD）
-* 郑书新（2019, University of Science and Technology of China）（Microsoft）
-* 孙诗昭（2018, Nankai University）（Microsoft）
-* 孟琪（2018, Peking University）（Microsoft）
-* 李海芳（2016, University of Chinese Academy of Sciences) （Baidu）
-* 田飞（2016, University of Science and Technology of China）（Facebook）
+* Ling Pan (2022, Tsinghua University) (MILA)
+* Yue Wang（2020, Beijing Jiaotong University）（Microsoft）
+* Li He（2019, University of Chinese Academy of Sciences）（JD）
+* Shuxin Zheng（2019, University of Science and Technology of China）（Microsoft）
+* Shizhao Sun（2018, Nankai University）（Microsoft）
+* Qi Meng（2018, Peking University）（Microsoft）
+* Haifang Li（2016, University of Chinese Academy of Sciences) （Baidu）
+* Fei Tian（2016, University of Science and Technology of China）（Facebook）
 
 (Long-term Master interns, graduated)
-* 贺笛（2013, Peking University）（Peking University）
-* 杨欣欣（2013, University of Chinese Academy of Sciences) (Inno Asset Management) 
-* 姚雷（2013, University of Chinese Academy of Sciences) (Sunshine Insurance)
+* Di He（2013, Peking University）（Peking University）
+* Xinxin Yang（2013, University of Chinese Academy of Sciences) (Inno Asset Management) 
+* Lei Yao（2013, University of Chinese Academy of Sciences) (Sunshine Insurance)
 
 (Under-graduated Interns)
-* 杨笑东（USTC=>Harvard）
-* 刘子鸣（PKU=>MIT）
-* 刘寒骁（Tsinghua=>CMU）
-* 岑诗聪（SHJT=>CMU）
-* 冯哲（SHJT=>Harvard）
-* 吴睿涵（Tsinghua=>Connell）
+* Xiaodong Yang（USTC=>Harvard）
+* Ziming Liu（PKU=>MIT）
+* Hanxiao Liu（Tsinghua=>CMU）
+* Shicong Cen（SHJT=>CMU）
+* Zhe Feng（SHJT=>Harvard）
+* Ruihan Wu（Tsinghua=>Connell）
