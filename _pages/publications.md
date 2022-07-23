@@ -13,27 +13,11 @@ googlescholar: https://scholar.google.com/citations?user=y0lN_XsAAAAJ&hl=en
 {% include base_path %}
 You can also find my recent publications on my [Google Scholar profile](https://scholar.google.com/citations?user=y0lN_XsAAAAJ&hl=en).	  
 
-# Publications
+# Publication List
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Publication List by Date</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
-
-<details>
-  <summary>Click to expand!</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
-
 Books
 =====
 * Tie-Yan Liu, Wei Chen, Taifeng Wang, Fei Gao, Distributed Machine Learning:  Algorithms, Theory, and Practice.
@@ -216,6 +200,18 @@ Accepted by **Physical Review E**, 2021.
 		  
 * Wei Chen, Tie-Yan Liu, Yanyan Lan, and Zhi-Ming Ma, Ranking Measures and Loss functions in Learning to Rank,
 *Advances in Neural Information Processing Systems 22 (**NeurIPS**)*, Pages 315-323, 2009.
+</details>
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 			  
   
 
