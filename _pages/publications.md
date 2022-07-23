@@ -203,13 +203,14 @@ Accepted by **Physical Review E**, 2021.
 </details>
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Publication List by Topics</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+ ## Causality-based Learning
+	
+ ## Privacy-preserved Learning
+	
+ ## Learning Theory
+	
 </details>
 
 			  
