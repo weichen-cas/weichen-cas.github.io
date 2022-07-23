@@ -17,7 +17,6 @@ You can also find my recent publications on my [Google Scholar profile](https://
 <details>
   <summary>Publication List by Date</summary>
   
-  
 ##Books
 
 * Tie-Yan Liu, Wei Chen, Taifeng Wang, Fei Gao, Distributed Machine Learning:  Algorithms, Theory, and Practice.
