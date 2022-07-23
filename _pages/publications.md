@@ -22,7 +22,9 @@ You can also find my recent publications on my [Google Scholar profile](https://
   2. list
      * With some
      * Sub bullets
-  
+</details>
+
+<details>
   <summary>Click to expand!</summary>
   
   ## Heading
