@@ -12,7 +12,26 @@ googlescholar: https://scholar.google.com/citations?user=y0lN_XsAAAAJ&hl=en
 
 {% include base_path %}
 You can also find my recent publications on my [Google Scholar profile](https://scholar.google.com/citations?user=y0lN_XsAAAAJ&hl=en).	  
-	      
+
+# Publications
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+  
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 Books
 =====
 * Tie-Yan Liu, Wei Chen, Taifeng Wang, Fei Gao, Distributed Machine Learning:  Algorithms, Theory, and Practice.
