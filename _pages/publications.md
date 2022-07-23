@@ -13,9 +13,9 @@ googlescholar: https://scholar.google.com/citations?user=y0lN_XsAAAAJ&hl=en
 {% include base_path %}
 You can also find my recent publications on my [Google Scholar profile](https://scholar.google.com/citations?user=y0lN_XsAAAAJ&hl=en).	  
 
-# Publication List
+
 <details>
-  <summary>Publication List by Date</summary>
+  <summary>Publication List by Date</summary><p>
   
 ## Books
 
@@ -199,7 +199,7 @@ Accepted by **Physical Review E**, 2021.
 		  
 * Wei Chen, Tie-Yan Liu, Yanyan Lan, and Zhi-Ming Ma, Ranking Measures and Loss functions in Learning to Rank,
 *Advances in Neural Information Processing Systems 22 (**NeurIPS**)*, Pages 315-323, 2009.
-</details>
+</p></details>
 
 <details>
   <summary>Publication List by Topics</summary>
