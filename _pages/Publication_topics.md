@@ -158,7 +158,7 @@ Accepted by **Physical Review E**, 2021.
 * Qi Meng, Wei Chen, Jingcheng Yu, Taifeng Wang, Zhi-Ming Ma, and Tie-Yan Liu, Asynchronous Accelerated Stochastic Gradient Descent,
 *In Proceedings of the 26th International Joint Conference on Artificial Intelligence (**IJCAI**)*, 2016.
 
-##Ranking and Auctions
+## Ranking and Auctions
 
 * Tao Qin, Wei Chen, and Tie-Yan Liu, Sponsored Search Auctions: Recent Advances and Future Directions,
 *ACM Transactions on Intelligent Systems and Technology (**TIST**)*,5 (4), 2014.
