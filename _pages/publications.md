@@ -16,4 +16,4 @@ You can also find my recent publications on my [Google Scholar profile](https://
 
 
   
-## [Publication by Date](https://weichen-cas.github.io/publications_date/)
+* [Publication by Date](https://weichen-cas.github.io/publications_date/)
