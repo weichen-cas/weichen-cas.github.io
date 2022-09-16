@@ -19,6 +19,10 @@ You can also find my recent publications on my [Google Scholar profile](https://
 
 ## Trustworthy AI
 
+* Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, Does Momentum Change the Implicit Regularization on Seperable Data? *Advances in Neural Information Processing Systems 36 (**NeurIPS**)*, 2022. 
+
+* Chen Wu, Ruqing Zhang, Jiafeng Guo, Wei Chen, Yixing Fan, Maarten de Rike, Xueqi Cheng, Certified Robustness to Word Substitution Ranking Attack for Neural Ranking Models. *The 31st  ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2022
+
 * Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu, What Makes Your Data Unavailable to Deep Learning? *The 28th SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, 2022.
 
 * Weitao du, He Zhang, Yuanqi Du, Qi Meng, Wei Chen, Tie-Yan Liu, Nanning Zheng, Bin Shao, Equivariant Graph Neural Networks with Complete Local Frames. *In Proceedings of the 39th International Conference on Machine Learning  (**ICML**)*, 2022.
@@ -53,7 +57,9 @@ Accepted by **Physical Review E**, 2021.
 * Zhuohan Li, Di He, Fei Tian, Wei Chen, Tao Qin, Liwei Wang, and Tie-Yan Liu, Towards Binary-Valued Gates for Robust LSTM Training,
 *In Proceeding of the 35th International Conference on Machine Learning （**ICML**)*, 2018.
 
-## DL/RL theory and algorithms
+## DL/RL Theory and Algorithms
+
+* Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, Does Momentum Change the Implicit Regularization on Seperable Data? *Advances in Neural Information Processing Systems 36 (**NeurIPS**)*, 2022. 
 
 * Chongchong Li, Yue Wang, Wei Chen, Yuting Liu, Zhi-Ming Ma, and Tie-Yan Liu, Gradient Information Matters in Policy Optimization by Back-propagating through Model.
 *The 10th International Conference on Learning Representations(**ICLR**)*, 2022.  
@@ -129,7 +135,7 @@ Accepted by **Physical Review E**, 2021.
                  
 
 
-## Distributed machine learning
+## Distributed Machine Learning
 
 * Shicong Cen, Huishuai Zhang, Yuejie Chi, Wei Chen, and Tie-Yan Liu, Convergence of Distributed Stochastic Variance Reduced Methods without Sampling Extra Data,
 ***IEEE Transactions on Signal Processing***, 2020.
