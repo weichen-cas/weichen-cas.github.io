@@ -27,6 +27,9 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
            
 
 ## Conference/Journal Papers
+
+* Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, Does Momentum Change the Implicit Regularization on Seperable Data? *Advances in Neural Information Processing Systems 36 (**NeurIPS**)*, 2022. 
+          
   
 * Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu, What Makes Your Data Unavailable to Deep Learning? *The 28th SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, 2022.
 
