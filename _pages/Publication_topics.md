@@ -19,8 +19,6 @@ You can also find my recent publications on my [Google Scholar profile](https://
 
 ## Trustworthy AI
 
-* Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, Does Momentum Change the Implicit Regularization on Seperable Data? *Advances in Neural Information Processing Systems 36 (**NeurIPS**)*, 2022. 
-
 * Chen Wu, Ruqing Zhang, Jiafeng Guo, Wei Chen, Yixing Fan, Maarten de Rike, Xueqi Cheng, Certified Robustness to Word Substitution Ranking Attack for Neural Ranking Models. *The 31st  ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2022
 
 * Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu, What Makes Your Data Unavailable to Deep Learning? *The 28th SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, 2022.
