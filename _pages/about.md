@@ -8,14 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Wei Chen (陈薇) is a professor in Institute of Computing Technology, Chinese Academy of Sciences. She is also adjunct professor in the University of Science and Technology of China, Beijing Jiaotong University, and Nankai University. Before she joined CAS, she was a principal research manager in Microsoft Research Asia and the co-chair of [MSR Asia Theory Center](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/articles/microsoft-research-asia-establishes-theory-center-to-strengthen-theoretical-foundation-of-ai/). She obtained the B.S. degree in Statistics from Shandong University in 2006, and the Ph.D. degree in Probability and Mathematical Statistics from Chinese Academy of Sciences in 2011, advised by Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). In 2021, she was named by Forbes as one of the 50 Top Women in Tech in China. She served as Area Chairs of ICML and NeurIPS.
+I am a professor in Institute of Computing Technology, Chinese Academy of Sciences. I am also adjunct professor in the University of Science and Technology of China, Beijing Jiaotong University, and Nankai University. Before I joined CAS, I was the manager of [Computing and Leanring Thoery Group](https://www.microsoft.com/en-us/research/group/computing-and-learning-theory-group/) in Microsoft Research Asia and the co-chair of [MSR Asia Theory Center](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/articles/microsoft-research-asia-establishes-theory-center-to-strengthen-theoretical-foundation-of-ai/). I obtained my B.S. degree in Statistics from Shandong University in 2006 and my Ph.D. degree in Probability and Mathematical Statistics from Chinese Academy of Sciences in 2011 supervised by Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). In 2021, I was named by Forbes as one of the 50 Top Women in Tech in China. 
 
-**Current Research Interests**
+My research area is machine learning, especially its basic methods and theory. About ten years ago, I started to investigate how to train large models fast with distributed optimization algorithms, how to improve the performance of deep learning by understanding its optimization and generalization, and how to make machine learning trustworthy with the lens of "causality". My current research interests are causal learning and deep learning theory. I served as Area Chairs of ICML and NeurIPS.
 
-  * Causal Learning and Trustworthy AI
-  * Theoretical machine learning
- 
-**Students and Visitors**
 
-I am now recruiting Ph.D. students who have great passion in fundamental research to make AI trustworthy, especially by utilizing “causality” and mathematical tools. If you have solid math and CS background, welcome to send your resume to me (chenwei2022 AT ict.ac.cn). Please check [this page](https://weichen-cas.github.io/Group/) for details about my group.
+
+I am now recruiting Ph.D. students who have great passion in fundamental research to make AI trustworthy. If you have solid math and CS background, welcome to send your resume to me (chenwei2022 AT ict.ac.cn). Please check [this page](https://weichen-cas.github.io/Group/) for details about my group.
 
