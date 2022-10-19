@@ -8,7 +8,7 @@ author_profile: true
 I am now recruiting Ph.D. students who have great passion in fundamental research to make AI trustworthy, especially by utilizing “causality” and mathematical tools. If you have solid math and CS background, welcome to send your resume to me (chenwei2022 AT ict.ac.cn).
 
 
-Students
+Current Students
 ======
 * [Bohan Wang](https://bhwangfy.github.io) (USTC-MSAR Joint Ph.D. student, co-advised with Prof. Zhi-Ming Ma)
 * Mingkun Zhang (Ph.D. student, co-advised with Prof. Xueqi Cheng)
