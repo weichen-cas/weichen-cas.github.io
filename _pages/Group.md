@@ -5,7 +5,7 @@ permalink: /Group/
 author_profile: true
 
 ---
-I am now recruiting Ph.D. students who have great passion in fundamental research to make AI trustworthy, especially by utilizing “causality” and mathematical tools. If you have solid math and CS background, welcome to send your resume to me (chenwei2022 AT ict.ac.cn).
+I am now recruiting Ph.D. students and post-docs who have great passion in fundamental research to make AI trustworthy, especially by utilizing “causality” and mathematical tools. If you have solid math and CS background, welcome to send your resume to me (chenwei2022 AT ict.ac.cn).
 
 
 Current Students
