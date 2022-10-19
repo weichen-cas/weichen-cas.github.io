@@ -10,9 +10,12 @@ I am now recruiting Ph.D. students who have great passion in fundamental researc
 
 Students
 ======
-* [Bohan Wang](https://bhwangfy.github.io) (Ph.D. student, University of Science and Technology of China)
-* Mingkun Zhang (Ph.D. student, University of Chinese Academy of Sciences)
-* Wei Huang (Ph.D. student, University of Chinese Academy of Sciences)
+* [Bohan Wang](https://bhwangfy.github.io) (USTC-MSAR Joint Ph.D. student, co-advised with Prof. Zhi-Ming Ma)
+* Mingkun Zhang (Ph.D. student, co-advised with Prof. Xueqi Cheng)
+* Wei Huang (Ph.D. student, co-advised with Prof. Xueqi Cheng)
+* Yuchen Wen (Ph.D. student)
+* Likun Wang (Ph.D. student, co-advised with Prof. Xueqi Cheng)
+* Junjie Nan (Master student)
 
 
 
