@@ -12,7 +12,9 @@ I am a professor in Institute of Computing Technology, Chinese Academy of Scienc
 
 My research area is machine learning, especially its basic methods and theory. About ten years ago, I started to investigate how to train large models fast with distributed optimization algorithms, how to improve the performance of deep learning by understanding its optimization and generalization, and how to make machine learning trustworthy with the lens of "causality". My current research interests are causal learning and deep learning theory. I served as Area Chairs of ICML and NeurIPS.
 
+## News
 
+## To potential students
 
 I am now recruiting Ph.D. students who have great passion in fundamental research to make AI trustworthy. If you have solid math and CS background, welcome to send your resume to me (chenwei2022 AT ict.ac.cn). Please check [this page](https://weichen-cas.github.io/Group/) for details about my group.
 
