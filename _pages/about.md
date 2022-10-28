@@ -13,7 +13,7 @@ I am a professor in Institute of Computing Technology, Chinese Academy of Scienc
 My research area is machine learning, especially its basic methods and theory. About ten years ago, I started to investigate how to train large models fast with distributed optimization algorithms, how to improve the performance of deep learning by understanding its optimization and generalization, and how to make machine learning trustworthy with the lens of "causality". My current research interests are causal learning and deep learning theory. I served as Area Chairs of ICML and NeurIPS.
 
 ## News
-* Oct 2022: I accepted the invitation to serve as Area Chair of [CLeaR 2022](https://www.cclear.cc/2023). 
+* Oct 2022: I accepted the invitation to serve as Area Chair of [CLeaR 2023](https://www.cclear.cc/2023). 
 * Sep 2022: Our paper "Does Momentum Change the Implicit Regularization on Seperable Data?" is accepted by NeurIPS 2022. 
 * August 2022: Our paper "Certified Robustness to Word Substitution Ranking Attack for Neural Ranking Models. " is accepted by CIKM 2022.
 * April 2022: we orgnize "[Causal Inference and Machine Learning](https://www.microsoft.com/en-us/research/event/2022-causal-inference-and-machine-learning-workshop/)" workshop with AMSS CAS, MSRA Theory Center, and Nankai University, which is hold online and in-person at ICT CAS.
