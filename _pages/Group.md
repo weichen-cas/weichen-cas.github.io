@@ -42,9 +42,9 @@ Master Students
 Alumni
 ======
 (Graduated Students from ICT CAS)
-* Xinyu Ma (2023)
+* Xinyu Ma (2023, Baidu)
 * Chen Wu (2023, Huawei)
-* Sihao Yu (2023)
+* Sihao Yu (2023, Kuaishou)
 
 (Former long-term PhD interns at MSRA, graduated)
 * Ling Pan (2022, Tsinghua University) (MILA)
