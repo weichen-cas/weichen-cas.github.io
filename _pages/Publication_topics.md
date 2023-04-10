@@ -18,6 +18,7 @@ You can also find my recent publications on my [Google Scholar profile](https://
   <summary>Publication List by Date</summary><p> -->
 
 ## Trustworthy AI
+* Yu-An Liu, Ruqing Zhang, Jiafeng Guo, Maarten de Rike, Wei Chen, Yixing Fan, Xueqi Cheng, Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models. *The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)*, 2023
 
 * Chen Wu, Ruqing Zhang, Jiafeng Guo, Wei Chen, Yixing Fan, Maarten de Rike, Xueqi Cheng, Certified Robustness to Word Substitution Ranking Attack for Neural Ranking Models. *The 31st  ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2022
 
