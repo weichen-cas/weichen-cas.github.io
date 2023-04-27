@@ -16,7 +16,7 @@ My research area is machine learning, especially its basic methods and theory. A
 * April 2023: We organize the [WINDSMATH (Women in Data Science and Mathematics) Seminar](https://windsmath-seminar.github.io/). Welcome to join!
 * Sep 2022: Our paper "Does Momentum Change the Implicit Regularization on Seperable Data?" is accepted by NeurIPS 2022. 
 * August 2022: Our paper "Certified Robustness to Word Substitution Ranking Attack for Neural Ranking Models. " is accepted by CIKM 2022.
-* June 2022: We have two paper accepted by ICLR. One is about policy optimization in RL, the other is about the difussion models. 
+* June 2022: We have two papers accepted by ICLR 2022. One is about policy optimization in RL, the other is about the difussion models. 
 * April 2022: we orgnize "[Causal Inference and Machine Learning](https://www.microsoft.com/en-us/research/event/2022-causal-inference-and-machine-learning-workshop/)" workshop with AMSS CAS, MSRA Theory Center, and Nankai University, which is hold online and in-person at ICT CAS.
 * April 2022: I give a talk at [DataSig Lab](https://www.datasig.ac.uk/presentations) of Oxford University by the invitation from Prof. Terry Lyons.
 * Feb 2022: I joined Institute of Computing Techonology, Chinese Academy of Sciences.
