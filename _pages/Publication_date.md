@@ -27,6 +27,8 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
            
 
 ## Conference/Journal Papers
+* Bohan Wang, Huishuai Zhang, Zhi-Ming Ma, Wei Chen, Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions. *The 36th Annual Conference on Learning Theory (**COLT**)*, 2023
+
 * Yu-An Liu, Ruqing Zhang, Jiafeng Guo, Maarten de Rike, Wei Chen, Yixing Fan, Xueqi Cheng, Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models. *The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)*, 2023
 
 * Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, Does Momentum Change the Implicit Regularization on Seperable Data? *Advances in Neural Information Processing Systems 36 (**NeurIPS**)*, 2022. 
