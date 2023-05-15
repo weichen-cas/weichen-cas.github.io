@@ -15,6 +15,7 @@ My research area is machine learning, especially its basic methods and theory. A
 ## News
 * May 2023: Our paper "Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions" is accepted by COLT 2023.
 * April 2023: We organize the [WINDSMATH (Women in Data Science and Mathematics) Seminar](https://windsmath-seminar.github.io/). Welcome to join!
+* April 2023：Our paper "Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models" is accepted by SIGIR 2023.
 * Sep 2022: Our paper "Does Momentum Change the Implicit Regularization on Seperable Data?" is accepted by NeurIPS 2022. 
 * August 2022: Our paper "Certified Robustness to Word Substitution Ranking Attack for Neural Ranking Models. " is accepted by CIKM 2022.
 * June 2022: We have two papers accepted by ICLR 2022. One is about policy optimization in RL, the other is about the difussion models. 
