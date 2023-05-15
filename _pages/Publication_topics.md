@@ -57,6 +57,7 @@ Accepted by **Physical Review E**, 2021.
 *In Proceeding of the 35th International Conference on Machine Learning （**ICML**)*, 2018.
 
 ## DL/RL Theory and Algorithms
+* Bohan Wang, Huishuai Zhang, Zhi-Ming Ma, Wei Chen, Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions. *The 36th Annual Conference on Learning Theory (**COLT**)*, 2023
 
 * Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, Does Momentum Change the Implicit Regularization on Seperable Data? *Advances in Neural Information Processing Systems 36 (**NeurIPS**)*, 2022. 
 
