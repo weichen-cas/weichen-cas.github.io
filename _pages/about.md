@@ -13,6 +13,7 @@ I am a professor in [Institute of Computing Technology, Chinese Academy of Scien
 My research area is machine learning, especially its basic methods and theory. About ten years ago, I started to investigate how to train large models fast with distributed optimization algorithms, how to improve the performance of deep learning by understanding its optimization and generalization, and how to make machine learning trustworthy with the lens of "causality". My current research interests are causal machine learning and deep learning theory, such as causality-inspried models and o.o.d. prediction, the implicit regularization of the optimization algorithms in deep learning, robust learning and its applications in IR and NLP, etc. 
 
 ## News
+* May 2023: Our paper "Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions" is accepted by COLT 2023.
 * April 2023: We organize the [WINDSMATH (Women in Data Science and Mathematics) Seminar](https://windsmath-seminar.github.io/). Welcome to join!
 * Sep 2022: Our paper "Does Momentum Change the Implicit Regularization on Seperable Data?" is accepted by NeurIPS 2022. 
 * August 2022: Our paper "Certified Robustness to Word Substitution Ranking Attack for Neural Ranking Models. " is accepted by CIKM 2022.
