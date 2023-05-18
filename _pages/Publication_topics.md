@@ -24,13 +24,8 @@ You can also find my recent publications on my [Google Scholar profile](https://
 
 * Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu, What Makes Your Data Unavailable to Deep Learning? *The 28th SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, 2022.
 
-* Weitao du, He Zhang, Yuanqi Du, Qi Meng, Wei Chen, Tie-Yan Liu, Nanning Zheng, Bin Shao, Equivariant Graph Neural Networks with Complete Local Frames. *In Proceedings of the 39th International Conference on Machine Learning  (**ICML**)*, 2022.
-
 * Tianyu Pang, Huishuai Zhang, Di He, Yinpeng Dong, Hang Su, Wei Chen, Jun Zhu, Tie-Yan Liu, Two Coupled Rejection Metrics Can Tell Adversarial Examples Apart.
 *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2022.
-
-* Ziming Liu, Bohan Wang, Qi Meng, Wei Chen, Max Tegmark, Tie-Yan Liu, Machine-Learning Non-conservative Dynamics for New-Physics Detection,
-Accepted by **Physical Review E**, 2021.
 
 * Xinwei Sun, Botong Wu, Xiangyu Zheng, Chang Liu, Wei Chen, Tao Qin, and Tie-Yan Liu, Recovering Latent Causal Factor for Generalization to Distributional Shifts,
 *Advances in Neural Information Processing Systems 35 (**NeurIPS**)*, 2021.
@@ -57,9 +52,13 @@ Accepted by **Physical Review E**, 2021.
 *In Proceeding of the 35th International Conference on Machine Learning （**ICML**)*, 2018.
 
 ## DL/RL Theory and Algorithms
-* Bohan Wang, Huishuai Zhang, Zhi-Ming Ma, Wei Chen, Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions. *The 36th Annual Conference on Learning Theory (**COLT**)*, 2023
+* Bohan Wang, Huishuai Zhang, Zhi-Ming Ma, Wei Chen, Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions. *The 36th Annual Conference on Learning Theory (**COLT**)*, 2023.
+
+* Shiqi Gong, Qi Meng, Yue Wang, Lijun Wu, Wei Chen, Zhiming Ma, Tie-Yan Liu, Incorporating NODE with Pre-trained Neural Differential Operator for Learning Dynamics. *Neurocomputing*, Volume 528, pages 48-58, 2023.
 
 * Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, Does Momentum Change the Implicit Regularization on Seperable Data? *Advances in Neural Information Processing Systems 36 (**NeurIPS**)*, 2022. 
+
+* Weitao du, He Zhang, Yuanqi Du, Qi Meng, Wei Chen, Tie-Yan Liu, Nanning Zheng, Bin Shao, Equivariant Graph Neural Networks with Complete Local Frames. *In Proceedings of the 39th International Conference on Machine Learning  (**ICML**)*, 2022.
 
 * Chongchong Li, Yue Wang, Wei Chen, Yuting Liu, Zhi-Ming Ma, and Tie-Yan Liu, Gradient Information Matters in Policy Optimization by Back-propagating through Model.
 *The 10th International Conference on Learning Representations(**ICLR**)*, 2022.  
@@ -71,6 +70,9 @@ Accepted by **Physical Review E**, 2021.
 
 * Xiaobo liang, Lijun Wu, Juntao Li, Yue Wang, Qi Meng, Tao Qin, Wei Chen, Min Zhang, Tie-Yan Liu, R-Drop: Regularized Dropout for Neural Networks,
 *Advances in Neural Information Processing Systems 35 (**NeurIPS**)*, 2021.
+
+* Ziming Liu, Bohan Wang, Qi Meng, Wei Chen, Max Tegmark, Tie-Yan Liu, Machine-Learning Non-conservative Dynamics for New-Physics Detection,
+Accepted by **Physical Review E**, 2021.
                     
 * Bohan Wang, Qi Meng, Wei Chen, and Tie-Yan Liu, The Implicit Bias for Adaptive Optimization Algorithms on Homogeneous Neural Networks,
 *In Proceedings of the  38th International Conference on Machine Learning (**ICML**)* with long presentation, 2021.
@@ -128,8 +130,8 @@ Accepted by **Physical Review E**, 2021.
 * Shizhao Sun, Wei Chen, Liwei Wang, Xiaoguang Liu, and Tie-Yan Liu, On the Depth of Deep Neural Networks: A Theoretical View,
 *In Proceedings of the 30th International Association for the Advancement of Artificial Intelligence Conference (**AAAI**)*, 2016.
 
-* Tie-Yan Liu, Wei Chen, and Tao Qin, Mechanism Learning with Mechanism Induced Data, Senior Member Track,
-*In Proceedings of the 29th International Association for the Advancement of Artificial Intelligence Conference (**AAAI**)*, 2015.
+* Tie-Yan Liu, Wei Chen, and Tao Qin, Mechanism Learning with Mechanism Induced Data, Senior Member Track, *In Proceedings of the 29th International Association for the Advancement of Artificial Intelligence Conference (**AAAI**)*, 2015.
+
 * Haifang Li, Tian Fei, Wei Chen, Tao Qin, Zhiming Ma, and Tie-Yan Liu, Generalization Analysis for Game-Theoretic Machine Learning,
 *Proceedings of the 29th International Association for the Advancement of Artificial Intelligence Conference (**AAAI**)*, 2015.
                  
