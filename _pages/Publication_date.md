@@ -27,14 +27,15 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
            
 
 ## Conference/Journal Papers
-* Bohan Wang, Huishuai Zhang, Zhi-Ming Ma, Wei Chen, Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions. *The 36th Annual Conference on Learning Theory (**COLT**)*, 2023
+* Bohan Wang, Huishuai Zhang, Zhi-Ming Ma, Wei Chen, Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions. *The 36th Annual Conference on Learning Theory (**COLT**)*, 2023.
 
-* Yu-An Liu, Ruqing Zhang, Jiafeng Guo, Maarten de Rike, Wei Chen, Yixing Fan, Xueqi Cheng, Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models. *The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)*, 2023
+* Yu-An Liu, Ruqing Zhang, Jiafeng Guo, Maarten de Rike, Wei Chen, Yixing Fan, Xueqi Cheng, Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models. *The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)*, 2023.
+
+* Shiqi Gong, Qi Meng, Yue Wang, Lijun Wu, Wei Chen, Zhiming Ma, Tie-Yan Liu, Incorporating NODE with Pre-trained Neural Differential Operator for Learning Dynamics. *Neurocomputing*, Volume 528, pages 48-58, 2023.
 
 * Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu, Does Momentum Change the Implicit Regularization on Seperable Data? *Advances in Neural Information Processing Systems 36 (**NeurIPS**)*, 2022. 
 
-* Chen Wu, Ruqing Zhang, Jiafeng Guo, Wei Chen, Yixing Fan, Maarten de Rike, Xueqi Cheng, Certified Robustness to Word Substitution Ranking Attack for Neural Ranking Models. *The 31st  ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2022
-          
+* Chen Wu, Ruqing Zhang, Jiafeng Guo, Wei Chen, Yixing Fan, Maarten de Rike, Xueqi Cheng, Certified Robustness to Word Substitution Ranking Attack for Neural Ranking Models. *The 31st  ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2022         
   
 * Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu, What Makes Your Data Unavailable to Deep Learning? *The 28th SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, 2022.
 
