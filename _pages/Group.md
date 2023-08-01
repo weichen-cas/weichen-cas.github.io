@@ -19,7 +19,6 @@ Visiting Professors
 
 PhD Students
 ======
-* Xin Hong
 * Jiangui Chen
 * Wanqing Cui
 * Yinqiong Cai
@@ -41,30 +40,22 @@ Master Students
 
 Alumni
 ======
-(Graduated Students from ICT CAS)
-* Xinyu Ma (2023, Baidu)
-* Chen Wu (2023, Huawei)
-* Sihao Yu (2023, Kuaishou)
+Graduated Students from ICT CAS
+* Xin Hong, 2023, => Tsinghua University
+* Xinyu Ma, 2023, => Baidu
+* Chen Wu, 2023, => Huawei
+* Sihao Yu, 2023, => Baidu
 
-(Former long-term PhD interns at MSRA, graduated)
-* Ling Pan (2022, Tsinghua University) (MILA)
-* Yue Wang（2020, Beijing Jiaotong University）（Microsoft）
-* Li He（2019, University of Chinese Academy of Sciences）（JD）
-* Shuxin Zheng（2019, University of Science and Technology of China）（Microsoft）
-* Shizhao Sun（2018, Nankai University）（Microsoft）
-* Qi Meng（2018, Peking University）（Microsoft）
-* Haifang Li（2016, University of Chinese Academy of Sciences) （Baidu）
-* Fei Tian（2016, University of Science and Technology of China）（Facebook）
+Former long-term PhD interns at MSRA
+* Ling Pan, 2022, Tsinghua University => MILA
+* Yue Wang, 2020, Beijing Jiaotong University => Microsoft
+* Li He, 2019, University of Chinese Academy of Sciences =>JD
+* Shuxin Zheng, 2019, University of Science and Technology of China => Microsoft
+* Shizhao Sun, 2018, Nankai University => Microsoft
+* Qi Meng, 2018, Peking University => Microsoft
+* Haifang Li, 2016, University of Chinese Academy of Sciences => Baidu
+* Fei Tian, 2016, University of Science and Technology of China => Facebook
+* Di He, 2013, Peking University => Peking University
+* Xinxin Yang, 2013, University of Chinese Academy of Sciences => Inno Asset Management
+* Lei Yao, 2013, University of Chinese Academy of Sciences => Sunshine Insurance
 
-(Former long-term Master interns at MSRA, graduated)
-* Di He（2013, Peking University）（Peking University）
-* Xinxin Yang（2013, University of Chinese Academy of Sciences) (Inno Asset Management) 
-* Lei Yao（2013, University of Chinese Academy of Sciences) (Sunshine Insurance)
-
-(Former Under-graduated Interns at MSRA)
-* Xiaodong Yang（USTC=>Harvard）
-* Ziming Liu（PKU=>MIT）
-* Hanxiao Liu（Tsinghua=>CMU）
-* Shicong Cen（SHJT=>CMU）
-* Zhe Feng（SHJT=>Harvard）
-* Ruihan Wu（Tsinghua=>Connell）
