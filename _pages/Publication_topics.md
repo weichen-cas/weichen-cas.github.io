@@ -18,6 +18,10 @@ You can also find my recent publications on my [Google Scholar profile](https://
   <summary>Publication List by Date</summary><p> -->
 
 ## Trustworthy Machine Learning
+* Lu Chen, Ruqing Zhang, Wei Huang, Wei Chen, Jiafeng Guo, Xueqi Cheng, Inducing Causal Structure for Abstractive Text Summarization. *The 32nd ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2023.
+  
+* Yu-An Liu, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan, Xueqi Cheng, Black-box Adversarial attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method. *The 32nd ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2023.
+
 * Yu-An Liu, Ruqing Zhang, Jiafeng Guo, Maarten de Rike, Wei Chen, Yixing Fan, Xueqi Cheng, Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models. *The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)*, 2023
 
 * Chen Wu, Ruqing Zhang, Jiafeng Guo, Wei Chen, Yixing Fan, Maarten de Rike, Xueqi Cheng, Certified Robustness to Word Substitution Ranking Attack for Neural Ranking Models. *The 31st  ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2022
@@ -167,6 +171,9 @@ Accepted by **Physical Review E**, 2021.
 *In Proceedings of the 26th International Joint Conference on Artificial Intelligence (**IJCAI**)*, 2016.
 
 ## Ranking and Auctions
+* Yinqiong Cai, Keping Bi, Yixing Fan, Jiafeng Guo, Wei Chen, Xueqi Cheng, L^2R:Lifelong Learning for First-stage Retrieval with Backward-Compatible Representations. *The 32nd ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2023.
+
+* Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan, Xueqi Cheng, Continual Learning for Generative Retieval over Dynamic Corpora. *The 32nd ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2023.
 
 * Tao Qin, Wei Chen, and Tie-Yan Liu, Sponsored Search Auctions: Recent Advances and Future Directions,
 *ACM Transactions on Intelligent Systems and Technology (**TIST**)*,5 (4), 2014.
