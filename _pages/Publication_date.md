@@ -27,6 +27,14 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
            
 
 ## Conference/Journal Papers
+* Lu Chen, Ruqing Zhang, Wei Huang, Wei Chen, Jiafeng Guo, Xueqi Cheng, Inducing Causal Structure for Abstractive Text Summarization. *The 32nd ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2023.
+  
+* Yu-An Liu, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan, Xueqi Cheng, Black-box Adversarial attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method. *The 32nd ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2023.
+
+* Yinqiong Cai, Keping Bi, Yixing Fan, Jiafeng Guo, Wei Chen, Xueqi Cheng, L^2R:Lifelong Learning for First-stage Retrieval with Backward-Compatible Representations. *The 32nd ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2023.
+
+* Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan, Xueqi Cheng, Continual Learning for Generative Retieval over Dynamic Corpora. *The 32nd ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2023.
+  
 * Bohan Wang, Huishuai Zhang, Zhi-Ming Ma, Wei Chen, Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions. *The 36th Annual Conference on Learning Theory (**COLT**)*, 2023.
 
 * Yu-An Liu, Ruqing Zhang, Jiafeng Guo, Maarten de Rike, Wei Chen, Yixing Fan, Xueqi Cheng, Topic-oriented Adversarial Attacks against Black-box Neural Ranking Models. *The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**)*, 2023.
