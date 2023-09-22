@@ -55,7 +55,9 @@ You can also find my recent publications on my [Google Scholar profile](https://
 * Zhuohan Li, Di He, Fei Tian, Wei Chen, Tao Qin, Liwei Wang, and Tie-Yan Liu, Towards Binary-Valued Gates for Robust LSTM Training,
 *In Proceeding of the 35th International Conference on Machine Learning （**ICML**)*, 2018.
 
-## DL/RL Theory and Algorithms
+## Deep Learning Theory and Algorithms
+* Bohan Wang, Jingwen Fu, Huishuai Zhang, Nanning Zheng, Wei Chen. Closing the Gap between the Upper Bound and Lower Bound of Adam's Iteration Complexity. Advances in Neural Information Processing Systems 37 (NeurIPS), 2023
+  
 * Bohan Wang, Huishuai Zhang, Zhi-Ming Ma, Wei Chen, Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions. *The 36th Annual Conference on Learning Theory (**COLT**)*, 2023.
 
 * Shiqi Gong, Qi Meng, Yue Wang, Lijun Wu, Wei Chen, Zhiming Ma, Tie-Yan Liu, Incorporating NODE with Pre-trained Neural Differential Operator for Learning Dynamics. *Neurocomputing*, Volume 528, pages 48-58, 2023.
