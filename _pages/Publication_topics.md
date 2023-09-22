@@ -56,7 +56,7 @@ You can also find my recent publications on my [Google Scholar profile](https://
 *In Proceeding of the 35th International Conference on Machine Learning （**ICML**)*, 2018.
 
 ## Deep Learning Theory and Algorithms
-* Bohan Wang, Jingwen Fu, Huishuai Zhang, Nanning Zheng, Wei Chen. Closing the Gap between the Upper Bound and Lower Bound of Adam's Iteration Complexity. Advances in Neural Information Processing Systems 37 *(**NeurIPS**)*, 2023
+* Bohan Wang, Jingwen Fu, Huishuai Zhang, Nanning Zheng, Wei Chen. Closing the Gap between the Upper Bound and Lower Bound of Adam's Iteration Complexity. *Advances in Neural Information Processing Systems 37 (**NeurIPS**)*, 2023
   
 * Bohan Wang, Huishuai Zhang, Zhi-Ming Ma, Wei Chen, Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions. *The 36th Annual Conference on Learning Theory (**COLT**)*, 2023.
 
