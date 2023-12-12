@@ -18,6 +18,8 @@ You can also find my recent publications on my [Google Scholar profile](https://
   <summary>Publication List by Date</summary><p> -->
 
 ## Trustworthy Machine Learning
+* Yu-An Liu, Ruqing Zhang, Mingkun Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Xueqi Cheng. Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off. *The 38th International Association for the Advancement of Artificial Intelligence Conference (**AAAI**)*, 2024.
+  
 * Lu Chen, Ruqing Zhang, Wei Huang, Wei Chen, Jiafeng Guo, Xueqi Cheng, Inducing Causal Structure for Abstractive Text Summarization. *The 32nd ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2023.
   
 * Yu-An Liu, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan, Xueqi Cheng, Black-box Adversarial attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method. *The 32nd ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2023.
