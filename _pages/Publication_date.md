@@ -27,6 +27,8 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
            
 
 ## Conference/Journal Papers
+* Yu-An Liu, Ruqing Zhang, Mingkun Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Xueqi Cheng. Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off. *The 38th International Association for the Advancement of Artificial Intelligence Conference (**AAAI**)*, 2024.
+  
 * Bohan Wang, Jingwen Fu, Huishuai Zhang, Nanning Zheng, Wei Chen. Closing the Gap between the Upper Bound and Lower Bound of Adam's Iteration Complexity. *Advances in Neural Information Processing Systems 37 (**NeurIPS**)*, 2023
   
 * Lu Chen, Ruqing Zhang, Wei Huang, Wei Chen, Jiafeng Guo, Xueqi Cheng, Inducing Causal Structure for Abstractive Text Summarization. *The 32nd ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2023.
