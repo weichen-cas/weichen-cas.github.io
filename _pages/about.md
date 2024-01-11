@@ -30,5 +30,5 @@ My research area is machine learning, especially its basic methods and theory. A
 
 ## We Are Hiring!
 
-We are recruiting all-levels (researchers, postdocs and Ph.D. students) who have great passion in fundamental research to make AI trustworthy. If you have solid math and/or CS background (especially in machine learning), welcome to send your resume to me (chenwei2022 AT ict.ac.cn). Please check [this page](https://weichen-cas.github.io/Group/) for details about my group.
+We are recruiting all-levels (researchers, postdocs and Ph.D. students) who have great passion in fundamental research to make AI trustworthy. If you have solid math and/or CS background (especially in machine learning), welcome to send your resume to me (chenwei2022 AT ict.ac.cn). Please check [this page](https://weichen-cas.github.io/Group/) for details about our group.
 
