@@ -13,7 +13,7 @@ I am a professor in [Institute of Computing Technology, Chinese Academy of Scien
 My research area is machine learning, especially its basic methods and theory. About ten years ago, I started to investigate how to train large models fast with distributed optimization algorithms, how to improve the performance of deep learning by understanding its optimization and generalization, and how to make machine learning trustworthy with the lens of "causality". My current research interests are causal machine learning and deep learning theory, such as causality-inspried models and o.o.d. prediction, the implicit regularization of the optimization algorithms in deep learning, robust learning and its applications in IR and NLP, etc. 
 
 ## News
-* Dec 2023: We are organizing ICLR 2024 workshop "Bridging the Gap between Practice and Theory in Deep Learning". More details will be available soon.
+* Dec 2023: We are organizing ICLR 2024 workshop "Bridging the Gap between Practice and Theory in Deep Learning". Welcome to join！For more details, please access to [the workshop website](https://sites.google.com/view/bgpt-iclr24/home).
 * Dec 2023: Our paper "Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off" is accepted by AAAI 2024.
 * Oct 2023: I am serving as the sponsorship chair of [CLeaR 2024](https://www.cclear.cc/2024). If you are interested to be a sponsor, please contact me.
 * Sep 2023: Our paper "Closing the Gap between the Upper Bound and Lower Bound of Adam's Iteration Complexity" is accepted by NeurIPS 2023.
