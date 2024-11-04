@@ -18,6 +18,10 @@ You can also find my recent publications on my [Google Scholar profile](https://
   <summary>Publication List by Date</summary><p> -->
 
 ## Trustworthy Machine Learning
+* Mingkun Zhang, Keping Bi, Wei Chen, Quanrun Chen, Jiafeng Guo, Xueqi Cheng, CausalDiff: Causality-Inspired Disentanglement via Difussion Model for Adversarial Defense. *The 38th Annual Conference on Neural Information Processing systems(**NeurIPS**)*, 2024.
+
+* Mingkun Zhang, Jianing Li, Wei Chen, Jiafeng Guo, Xueqi Cheng, Classifier Guidance Enhances Diffusion-based Purification by Preserviong Predictive Information. *The 27th European Conference on Artifitial Intelligence(**ECAI**)*, 2024.
+  
 * Yu-An Liu, Ruqing Zhang, Mingkun Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Xueqi Cheng. Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off. *The 38th International Association for the Advancement of Artificial Intelligence Conference (**AAAI**)*, 2024.
   
 * Lu Chen, Ruqing Zhang, Wei Huang, Wei Chen, Jiafeng Guo, Xueqi Cheng, Inducing Causal Structure for Abstractive Text Summarization. *The 32nd ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2023.
@@ -58,7 +62,7 @@ You can also find my recent publications on my [Google Scholar profile](https://
 *In Proceeding of the 35th International Conference on Machine Learning （**ICML**)*, 2018.
 
 ## Deep Learning Theory and Algorithms
-* Bohan Wang, Huishuai Zhang, Qi Meng, Ruoyu Sun, Zhi-Ming Ma, Wei Chen, Randomly-reshuffled Adam can provably converge under non-uniformsmoothness *The 30th SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, 2024.
+* Bohan Wang, Huishuai Zhang, Qi Meng, Ruoyu Sun, Zhi-Ming Ma, Wei Chen, Randomly-reshuffled Adam can provably converge under non-uniform smoothness. *The 30th SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, 2024.
   
 * Bohan Wang, Jingwen Fu, Huishuai Zhang, Nanning Zheng, Wei Chen. Closing the Gap between the Upper Bound and Lower Bound of Adam's Iteration Complexity. *Advances in Neural Information Processing Systems 37 (**NeurIPS**)*, 2023
   
