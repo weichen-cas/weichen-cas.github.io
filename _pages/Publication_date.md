@@ -27,7 +27,7 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
            
 
 ## Conference/Journal Papers
-*Mingkun Zhang, Keping Bi, Wei Chen, Quanrun Chen, Jiafeng Guo, Xueqi Cheng, CausalDiff: Causality-Inspired Disentanglement via Difussion Model for Adversarial Defense. *The 38th Annual Conference on Neural Information Processing systems(**NeurIPS**)*, 2024.
+* Mingkun Zhang, Keping Bi, Wei Chen, Quanrun Chen, Jiafeng Guo, Xueqi Cheng, CausalDiff: Causality-Inspired Disentanglement via Difussion Model for Adversarial Defense. *The 38th Annual Conference on Neural Information Processing systems(**NeurIPS**)*, 2024.
 
 * Mingkun Zhang, Jianing Li, Wei Chen, Jiafeng Guo, Xueqi Cheng, Classifier Guidance Enhances Diffusion-based Purification by Preserviong Predictive Information. *The 27th European Conference on Artifitial Intelligence(**ECAI**)*, 2024.
   
