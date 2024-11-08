@@ -14,7 +14,7 @@ My research area is machine learning, especially its basic methods and theory. A
 
 ## News
 * Oct. 2024: Our work COUP and CausalDiff on adversarival rabustness are accepted by ECAI 2024 and NeurIPS 2024, respectively.
-* May 2024: Our paper Adam's convergence is accepted by SIGKDD.
+* May 2024: Our paper on Adam's convergence is accepted by SIGKDD.
 * Dec 2023: We are organizing ICLR 2024 workshop "Bridging the Gap between Practice and Theory in Deep Learning (BGPT)". Welcome to join！For more details, please access to the workshop website [BGPT](https://sites.google.com/view/bgpt-iclr24/home).
 * Dec 2023: Our paper "Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off" is accepted by AAAI 2024.
 * Oct 2023: I am serving as the sponsorship chair of [CLeaR 2024](https://www.cclear.cc/2024). If you are interested to be a sponsor, please contact me.
