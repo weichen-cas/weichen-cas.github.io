@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Group"
 permalink: /Group/
@@ -38,3 +38,28 @@ Alumni (Graduated Students and Long-term Interns in MSRA)
 * Di He, Peking University
 * Xinxin Yang, Inno Asset Management
 * Lei Yao, Sunshine Insurance
+ -->
+
+
+
+
+ ---
+layout: default
+title: "Group Members"
+permalink: /group/
+---
+
+<div class="container">
+  <header class="page-header">
+    <h1>{{ page.title }}</h1>
+    <p>Meet the members of our team.</p >
+  </header>
+
+  <section class="members-list">
+    <!-- 获取所有课题组成员数据 -->
+    {% assign members = site.data.members %}
+    <div class="row">
+      test
+    </div>
+  </section>
+</div>
