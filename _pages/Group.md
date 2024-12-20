@@ -5,57 +5,36 @@ permalink: /Group/
 author_profile: true
 
 ---
-I am now recruiting Ph.D. students and post-docs in machine learning who have great passion in fundamental research to make AI trustworthy, especially by utilizing “causality” and mathematical tools. If you have solid math or CS background, welcome to send your resume to me (chenwei2022 AT ict.ac.cn).
+I am recruiting Ph.D. candidates and post-docs with CS/EE/Math background who have great passion in fundamental research to make AI/ML trustworthy. If you are interested, please send your resume to chenwei2022 AT ict.ac.cn.
 
-Faculty Members
-======
-* [Ruqing Zhang](https://daqingchong.github.io)
-* Jianing Li
-* [Keping Bi](https://sites.google.com/site/irkepingbi/?pli=1)
 
-Visiting Professors
+Students
 ======
-* Tao Lian
-
-PhD Students
-======
-* Jiangui Chen
-* Wanqing Cui
-* Yinqiong Cai
-* Lu Chen
-* Yubao Tang
-* Mingkun Zhang
+* Mingkun Zhang (co-advised with Prof. Xueqi Cheng)
 * [Bohan Wang](https://bhwangfy.github.io) (co-advised with Prof. Zhi-Ming Ma @ USTC)
-* Wei Huang 
-* Yu-An Liu
-* Likun Wang
-* Yuchen Wen 
-* Shiyu Ni
+* Wei Huang (co-advised with Prof. Xueqi Cheng)
+* Shiqi Sun
+* Yuchen Wen
+* Qingbin Li
+* Likun Wang (co-advised with Prof. Xueqi Cheng)
+* Wenjie Zhou
+* Hongtao Zhang
+* Junjie Nan
+* Yangyang Li
+* Tongrui Su
 
-Master Students
+
+
+Alumni (Graduated Students and Long-term Interns in MSRA)
 ======
-* Junjie Nan 
-
-
-
-Alumni
-======
-Graduated Students from ICT CAS
-* Xin Hong, 2023, => Tsinghua University
-* Xinyu Ma, 2023, => Baidu
-* Chen Wu, 2023, => Huawei
-* Sihao Yu, 2023, => Baidu
-
-Former long-term PhD interns at MSRA
-* Ling Pan, 2022, Tsinghua University => MILA
-* Yue Wang, 2020, Beijing Jiaotong University => Microsoft
-* Li He, 2019, University of Chinese Academy of Sciences =>JD
-* Shuxin Zheng, 2019, University of Science and Technology of China => Microsoft
-* Shizhao Sun, 2018, Nankai University => Microsoft
-* Qi Meng, 2018, Peking University => Microsoft
-* Haifang Li, 2016, University of Chinese Academy of Sciences => Baidu
-* Fei Tian, 2016, University of Science and Technology of China => Facebook
-* Di He, 2013, Peking University => Peking University
-* Xinxin Yang, 2013, University of Chinese Academy of Sciences => Inno Asset Management
-* Lei Yao, 2013, University of Chinese Academy of Sciences => Sunshine Insurance
-
+* Ling Pan, HKUST
+* Yue Wang, Microsoft
+* Li He, 2019, Qiyuan Lab
+* Shuxin Zheng, Microsoft
+* Shizhao Sun,  Microsoft
+* Qi Meng, CAS
+* Haifang Li, Baidu
+* Fei Tian, Meta
+* Di He, Peking University
+* Xinxin Yang, Inno Asset Management
+* Lei Yao, Sunshine Insurance
