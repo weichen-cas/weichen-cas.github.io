@@ -12,7 +12,7 @@ Students
 ======
 
 * Mingkun Zhang (co-advised with Prof. Xueqi Cheng)
-<img src="/img/test.jpg" height="200">
+<img src="./img/test.jpg" height="200">
 
 * [Bohan Wang](https://bhwangfy.github.io) (co-advised with Prof. Zhi-Ming Ma @ USTC)
 * Wei Huang (co-advised with Prof. Xueqi Cheng)
