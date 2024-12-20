@@ -34,6 +34,8 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
 * Mingkun Zhang, Jianing Li, Wei Chen, Jiafeng Guo, Xueqi Cheng, Classifier Guidance Enhances Diffusion-based Purification by Preserviong Predictive Information. *The 27th European Conference on Artifitial Intelligence(**ECAI**)*, 2024.
   
 * Bohan Wang, Huishuai Zhang, Qi Meng, Ruoyu Sun, Zhi-Ming Ma, Wei Chen, Randomly-reshuffled Adam can provably converge under non-uniform smoothness. *The 30th SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, 2024.
+
+* Wenjie Zhou, Bohan Wang, Wei Chen, Zhi-Ming Ma, Xueqi Cheng, Momentum Gradient Descent over single-neuron linear network: rich behaviors of limiting Sharpness. *ICLR Bridging the Gap Between Practice and Theory in Deep Learning (BGPT) workshop*, 2024.
   
 * Yu-An Liu, Ruqing Zhang, Mingkun Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Xueqi Cheng, Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off. *The 38th International Association for the Advancement of Artificial Intelligence Conference (**AAAI**)*, 2024.
 
