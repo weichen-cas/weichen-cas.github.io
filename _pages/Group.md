@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "Group"
 permalink: /Group/
@@ -10,7 +10,10 @@ I am recruiting Ph.D. candidates and post-docs with CS/EE/Math background who ha
 
 Students
 ======
+
 * Mingkun Zhang (co-advised with Prof. Xueqi Cheng)
+<img src="/img/test.jpg" height="200">
+
 * [Bohan Wang](https://bhwangfy.github.io) (co-advised with Prof. Zhi-Ming Ma @ USTC)
 * Wei Huang (co-advised with Prof. Xueqi Cheng)
 * Shiqi Sun
@@ -38,28 +41,4 @@ Alumni (Graduated Students and Long-term Interns in MSRA)
 * Di He, Peking University
 * Xinxin Yang, Inno Asset Management
 * Lei Yao, Sunshine Insurance
- -->
 
-
-
-
- ---
-layout: default
-title: "Group Members"
-permalink: /group/
----
-
-<div class="container">
-  <header class="page-header">
-    <h1>{{ page.title }}</h1>
-    <p>Meet the members of our team.</p >
-  </header>
-
-  <section class="members-list">
-    <!-- 获取所有课题组成员数据 -->
-    {% assign members = site.data.members %}
-    <div class="row">
-      test
-    </div>
-  </section>
-</div>
