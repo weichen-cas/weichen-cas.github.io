@@ -19,26 +19,26 @@ Students
 * Shiqi Sun
   
 * Yuchen Wen
-  <img src="./img/Yuchen.jpg" height="200">
+<img src="./img/Yuchen.jpg" height="200">
 
 * Qingbin Li
-   <img src="./img/Qingbin.jpg" height="200">
+<img src="./img/Qingbin.jpg" height="200">
 
 * Likun Wang (co-advised with Prof. Xueqi Cheng)
-   <img src="./img/likun.jpg" height="200">
+<img src="./img/likun.jpg" height="200">
    
 * Wenjie Zhou
-   <img src="./img/wenjie.jpg" height="200">
+<img src="./img/wenjie.jpg" height="200">
    
 * Hongtao Zhang
   
 * Junjie Nan
-   <img src="./img/Junjie.jpg" height="200">
+<img src="./img/Junjie.jpg" height="200">
    
 * Yangyang Li
 * 
 * Tongrui Su
-   <img src="./img/tongrui.jpg" height="200">
+<img src="./img/tongrui.jpg" height="200">
 
 
 
