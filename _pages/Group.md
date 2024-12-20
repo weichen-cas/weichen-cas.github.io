@@ -36,7 +36,7 @@ Students
 <img src="./img/Junjie.jpg" height="200">
    
 * Yangyang Li
-* 
+  
 * Tongrui Su
 <img src="./img/tongrui.jpg" height="200">
 
