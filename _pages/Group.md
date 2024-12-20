@@ -22,7 +22,7 @@ Students
 <img src="./img/Yuchen.jpg" height="200">
 
 * Qingbin Li
-<img src="./img/Qingbin.jpg" height="200">
+<img src="./img/qingbin.jpg" height="200">
 
 * Likun Wang (co-advised with Prof. Xueqi Cheng)
 <img src="./img/likun.jpg" height="200">
