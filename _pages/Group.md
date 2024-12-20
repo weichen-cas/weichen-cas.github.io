@@ -10,21 +10,26 @@ I am recruiting Ph.D. candidates and post-docs with CS/EE/Math background who ha
 
 Students
 ======
-<img src="./img/mingkun.jpg" height="200">
+
 * Mingkun Zhang (co-advised with Prof. Xueqi Cheng)
-
-
+<img src="./img/mingkun.jpg" height="200">
 * [Bohan Wang](https://bhwangfy.github.io) (co-advised with Prof. Zhi-Ming Ma @ USTC)
 * Wei Huang (co-advised with Prof. Xueqi Cheng)
 * Shiqi Sun
 * Yuchen Wen
+  <img src="./img/Yuchen.jpg" height="200">
 * Qingbin Li
+   <img src="./img/Qingbin.jpg" height="200">
 * Likun Wang (co-advised with Prof. Xueqi Cheng)
+   <img src="./img/likun.jpg" height="200">
 * Wenjie Zhou
+   <img src="./img/wenjie.jpg" height="200">
 * Hongtao Zhang
 * Junjie Nan
+   <img src="./img/Junjie.jpg" height="200">
 * Yangyang Li
 * Tongrui Su
+   <img src="./img/tongrui.jpg" height="200">
 
 
 
