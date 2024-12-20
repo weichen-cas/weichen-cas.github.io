@@ -15,7 +15,9 @@ Students
 <img src="./img/mingkun.jpg" height="200">
 
 * [Bohan Wang](https://bhwangfy.github.io) (co-advised with Prof. Zhi-Ming Ma @ USTC)
+  
 * Wei Huang (co-advised with Prof. Xueqi Cheng)
+  
 * Shiqi Sun
   
 * Yuchen Wen
