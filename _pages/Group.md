@@ -12,7 +12,7 @@ Students
 ======
 
 * Mingkun Zhang (co-advised with Prof. Xueqi Cheng)
-<img src="https://github.com/weichen-cas/weichen-cas.github.io/blob/master/_pages/img/mingkun.jpg" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/mingkun.jpg" height="200">
 
 * [Bohan Wang](https://bhwangfy.github.io) (co-advised with Prof. Zhi-Ming Ma @ USTC)
   
