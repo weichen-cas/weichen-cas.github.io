@@ -21,26 +21,26 @@ Students
 * Shiqi Sun
   
 * Yuchen Wen
-<img src="https://github.com/weichen-cas/weichen-cas.github.io/blob/master/_pages/img/Yuchen.jpg" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/Yuchen.jpg" height="200">
 
 * Qingbin Li
-<img src="https://github.com/weichen-cas/weichen-cas.github.io/blob/master/_pages/img/qingbin.jpg" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/qingbin.jpg" height="200">
 
 * Likun Wang (co-advised with Prof. Xueqi Cheng)
-<img src="https://github.com/weichen-cas/weichen-cas.github.io/blob/master/_pages/img/likun.jpg" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/likun.jpg" height="200">
    
 * Wenjie Zhou
-<img src="https://github.com/weichen-cas/weichen-cas.github.io/blob/master/_pages/img/wenjie.jpg" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/wenjie.jpg" height="200">
    
 * Hongtao Zhang
   
 * Junjie Nan
-<img src="https://github.com/weichen-cas/weichen-cas.github.io/blob/master/_pages/img/Junjie.jpg" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/Junjie.jpg" height="200">
    
 * Yangyang Li
   
 * Tongrui Su
-<img src="https://github.com/weichen-cas/weichen-cas.github.io/blob/master/_pages/img/tongrui.jpg" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/tongrui.jpg" height="200">
 
 
 
