@@ -12,7 +12,7 @@ Students
 ======
 
 * Mingkun Zhang (co-advised with Prof. Xueqi Cheng)
-<img src="https://weichen-cas.github.io/_pages/img/mingkun.jpg" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/mingkun.jpg" style="zoom:5%" height="200">
 
 * [Bohan Wang](https://bhwangfy.github.io) (co-advised with Prof. Zhi-Ming Ma @ USTC)
   
@@ -21,26 +21,26 @@ Students
 * Shiqi Sun
   
 * Yuchen Wen
-<img src="https://weichen-cas.github.io/_pages/img/Yuchen.jpg" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/Yuchen.jpg" style="zoom:5%" height="200">
 
 * Qingbin Li
-<img src="https://weichen-cas.github.io/_pages/img/qingbin.jpg" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/qingbin.jpg" style="zoom:5%"  height="200">
 
 * Likun Wang (co-advised with Prof. Xueqi Cheng)
-<img src="https://weichen-cas.github.io/_pages/img/likun.jpg" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/likun.jpg" style="zoom:5%"  height="200">
    
 * Wenjie Zhou
-<img src="https://weichen-cas.github.io/_pages/img/wenjie.jpg" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/wenjie.jpg" style="zoom:5%" height="200">
    
 * Hongtao Zhang
   
 * Junjie Nan
-<img src="https://weichen-cas.github.io/_pages/img/Junjie.jpg" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/Junjie.jpg" style="zoom:5%" height="200">
    
 * Yangyang Li
   
 * Tongrui Su
-<img src="https://weichen-cas.github.io/_pages/img/tongrui.jpg" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/tongrui.jpg" style="zoom:5%"  height="200">
 
 
 
