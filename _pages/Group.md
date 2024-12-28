@@ -33,19 +33,19 @@ Students
 
 * Likun Wang (co-supervised with Prof. Xueqi Cheng)
   
-<img src="https://weichen-cas.github.io/_pages/img/likun.jpg" style="zoom:5%"  height="200">
+<img src="https://weichen-cas.github.io/_pages/img/likun.jpg" style="zoom:10%"  height="200">
    
 * Wenjie Zhou
   
-<img src="https://weichen-cas.github.io/_pages/img/wenjie.jpg" style="zoom:5%" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/wenjie.jpg" style="zoom:10%" height="200">
    
 * Hongtao Zhang
 
-<img src="https://weichen-cas.github.io/_pages/img/hongtao.jpg" style="zoom:5%" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/hongtao.jpg" style="zoom:10%" height="200">
   
 * Junjie Nan
   
-<img src="https://weichen-cas.github.io/_pages/img/Junjie.jpg" style="zoom:50%" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/Junjie.jpg" style="zoom:10%" height="200">
    
 * Yangyang Li
   
