@@ -11,12 +11,12 @@ I am recruiting Ph.D. candidates and post-docs with CS/EE/Math background who ha
 Students
 ======
 
-* Mingkun Zhang (co-advised with Prof. Xueqi Cheng)
+* Mingkun Zhang (co-supervised with Prof. Xueqi Cheng)
 <img src="https://weichen-cas.github.io/_pages/img/mingkun.jpg" style="zoom:5%" height="200">
 
-* [Bohan Wang](https://bhwangfy.github.io) (co-advised with Prof. Zhi-Ming Ma @ USTC)
+* [Bohan Wang](https://bhwangfy.github.io) (co-supervised with Prof. Zhi-Ming Ma @ USTC)
   
-* Wei Huang (co-advised with Prof. Xueqi Cheng)
+* Wei Huang (co-supervised with Prof. Xueqi Cheng)
   
 * Shiqi Sun
   
@@ -26,7 +26,7 @@ Students
 * Qingbin Li
 <img src="https://weichen-cas.github.io/_pages/img/qingbin.jpg" style="zoom:5%"  height="200">
 
-* Likun Wang (co-advised with Prof. Xueqi Cheng)
+* Likun Wang (co-supervised with Prof. Xueqi Cheng)
 <img src="https://weichen-cas.github.io/_pages/img/likun.jpg" style="zoom:5%"  height="200">
    
 * Wenjie Zhou
