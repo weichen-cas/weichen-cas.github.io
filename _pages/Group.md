@@ -40,6 +40,8 @@ Students
 <img src="https://weichen-cas.github.io/_pages/img/wenjie.jpg" style="zoom:5%" height="200">
    
 * Hongtao Zhang
+
+<img src="https://weichen-cas.github.io/_pages/img/hongtao.jpg" style="zoom:5%" height="200">
   
 * Junjie Nan
   
