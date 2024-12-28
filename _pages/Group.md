@@ -41,7 +41,7 @@ Students
   
 * Junjie Nan
   
-<img src="https://weichen-cas.github.io/_pages/img/Junjie.jpg" style="zoom:5%" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/Junjie.jpg" style="zoom:50%" height="200">
    
 * Yangyang Li
   
