@@ -29,7 +29,7 @@ Students
 
 * Qingbin Li
   
-<img src="https://weichen-cas.github.io/_pages/img/qingbin.jpg" style="zoom:5%"  height="200">
+<img src="https://weichen-cas.github.io/_pages/img/qingbin.jpg" style="zoom:10%"  height="200">
 
 * Likun Wang (co-supervised with Prof. Xueqi Cheng)
   
@@ -41,11 +41,11 @@ Students
    
 * Hongtao Zhang
 
-<img src="https://weichen-cas.github.io/_pages/img/hongtao.jpg" style="zoom:10%" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/hongtao.jpg" style="zoom:20%" height="200">
   
 * Junjie Nan
   
-<img src="https://weichen-cas.github.io/_pages/img/Junjie.jpg" style="zoom:10%" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/Junjie.jpg" style="zoom:30%" height="200">
    
 * Yangyang Li
   
