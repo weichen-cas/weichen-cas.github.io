@@ -18,6 +18,8 @@ Students
 * [Bohan Wang](https://bhwangfy.github.io) (co-supervised with Prof. Zhi-Ming Ma @ USTC)
   
 * Wei Huang (co-supervised with Prof. Xueqi Cheng)
+
+<img src="https://weichen-cas.github.io/_pages/img/huangwei.jpg" style="zoom:5%" height="200">
   
 * Shiqi Sun
   
