@@ -16,6 +16,8 @@ Students
 <img src="https://weichen-cas.github.io/_pages/img/mingkun-证件.jpg" style="zoom:5%" height="200">
 
 * [Bohan Wang](https://bhwangfy.github.io) (co-supervised with Prof. Zhi-Ming Ma @ USTC)
+
+<img src="https://weichen-cas.github.io/_pages/img/bohan.jpg" style="zoom:5%" height="200">
   
 * Wei Huang (co-supervised with Prof. Xueqi Cheng)
 
