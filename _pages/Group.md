@@ -13,7 +13,7 @@ Students
 
 * Mingkun Zhang (co-supervised with Prof. Xueqi Cheng)
   
-<img src="https://weichen-cas.github.io/_pages/img/mingkun.jpg" style="zoom:5%" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/mingkun-证件.jpg" style="zoom:5%" height="200">
 
 * [Bohan Wang](https://bhwangfy.github.io) (co-supervised with Prof. Zhi-Ming Ma @ USTC)
   
@@ -22,6 +22,8 @@ Students
 <img src="https://weichen-cas.github.io/_pages/img/huangwei.jpg" style="zoom:5%" height="200">
   
 * Shiqi Sun
+
+<img src="https://weichen-cas.github.io/_pages/img/shiqi.jpg" style="zoom:5%" height="200">
   
 * Yuchen Wen
   
@@ -48,6 +50,8 @@ Students
 <img src="https://weichen-cas.github.io/_pages/img/Junjie.jpg" style="zoom:30%" height="200">
    
 * Yangyang Li
+
+<img src="https://weichen-cas.github.io/_pages/img/yangyang.jpg" style="zoom:5%"  height="200">
   
 * Tongrui Su
   
