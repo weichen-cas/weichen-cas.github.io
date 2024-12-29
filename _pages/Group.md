@@ -23,7 +23,7 @@ Students
   
 * Shiqi Sun
 
-<img src="https://weichen-cas.github.io/_pages/img/shiqi.jpg" style="zoom:5%" height="200">
+<img src="https://weichen-cas.github.io/_pages/img/shiqi.jpg" style="zoom:10%" height="200">
   
 * Yuchen Wen
   
