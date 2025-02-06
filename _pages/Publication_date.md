@@ -27,6 +27,8 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
            
 
 ## Conference/Journal Papers
+* Mingkun Zhang, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng, CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification.*The 13rd International Conference on Learning Representations(**ICLR**)*, 2025. 
+
 * Mingkun Zhang, Keping Bi, Wei Chen, Quanrun Chen, Jiafeng Guo, Xueqi Cheng, CausalDiff: Causality-Inspired Disentanglement via Difussion Model for Adversarial Defense. *The 38th Annual Conference on Neural Information Processing systems(**NeurIPS**)*, 2024.
 
 * Yubao Tang, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen and Xueqi Cheng. Generative Retrieval Meets Multi-Graded Relevance. *The Thirty-eighth Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**)*, 2024
@@ -70,8 +72,7 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
 * Tianyu Pang, Huishuai Zhang, Di He, Yinpeng Dong, Hang Su, Wei Chen, Jun Zhu, Tie-Yan Liu, Two Coupled Rejection Metrics Can Tell Adversarial Examples Apart.
 *Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2022.
 
-* Chongchong Li, Yue Wang, Wei Chen, Yuting Liu, Zhi-Ming Ma, and Tie-Yan Liu, Gradient Information Matters in Policy Optimization by Back-propagating through Model.
-*The 10th International Conference on Learning Representations(**ICLR**)*, 2022.  
+* Chongchong Li, Yue Wang, Wei Chen, Yuting Liu, Zhi-Ming Ma, and Tie-Yan Liu, Gradient Information Matters in Policy Optimization by Back-propagating through Model. *The 10th International Conference on Learning Representations(**ICLR**)*, 2022.  
 
 * Sang-gil Lee, Heeseung Kim, Chaehun Shin, Xu Tan, Chang Liu, Qi Meng, Tao Qin, Wei Chen, Sungroh Yoon, Tie-Yan Liu, PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior.*The 10th International Conference on Learning Representations(**ICLR**)*, 2022.
 	  
