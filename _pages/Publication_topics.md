@@ -60,8 +60,7 @@ You can also find my recent publications on my [Google Scholar profile](https://
 * Da Yu, Huishuai Zhang, and Wei Chen, Improving Gradient Perturbation for Differentially Private Optimization,
 *NeurIPS Workshop on Privacy Preserving Machine Learning</*i>, 2018.
                    
-* Zhuohan Li, Di He, Fei Tian, Wei Chen, Tao Qin, Liwei Wang, and Tie-Yan Liu, Towards Binary-Valued Gates for Robust LSTM Training,
-*In Proceeding of the 35th International Conference on Machine Learning （**ICML**)*, 2018.
+
 
 ## Deep Learning Theory and Algorithms
 * Bohan Wang, Huishuai Zhang, Qi Meng, Ruoyu Sun, Zhi-Ming Ma, Wei Chen, Randomly-reshuffled Adam can provably converge under non-uniform smoothness. *The 30th SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, 2024.
@@ -118,6 +117,9 @@ Accepted by **Physical Review E**, 2021.
 
 * Shuxin Zheng, Qi Meng, Huishuai Zhang, Wei Chen, and Tie-Yan Liu, Capacity Control of ReLU Neural Networks by Basis-path Norm,
 *In Proceedings of the 33rd International Association for the Advancement of Artificial Intelligence Conference (**AAAI**)*, 2019.
+
+* Zhuohan Li, Di He, Fei Tian, Wei Chen, Tao Qin, Liwei Wang, and Tie-Yan Liu, Towards Binary-Valued Gates for Robust LSTM Training,
+*In Proceeding of the 35th International Conference on Machine Learning （**ICML**)*, 2018.
 
 * Huishuai Zhang, Wei Chen, and Tie-Yan Liu, On the Local Hessian in Back-propagation,
 *In Advances in Neural Information Processing Systems 32 (**NeurIPS**)*, 2018.
