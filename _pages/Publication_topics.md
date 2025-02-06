@@ -18,6 +18,8 @@ You can also find my recent publications on my [Google Scholar profile](https://
   <summary>Publication List by Date</summary><p> -->
 
 ## Trustworthy Machine Learning
+* Mingkun Zhang, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng, CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification.*The 13rd International Conference on Learning Representations(**ICLR**)*, 2025. 
+
 * Mingkun Zhang, Keping Bi, Wei Chen, Quanrun Chen, Jiafeng Guo, Xueqi Cheng, CausalDiff: Causality-Inspired Disentanglement via Difussion Model for Adversarial Defense. *The 38th Annual Conference on Neural Information Processing systems(**NeurIPS**)*, 2024.
 
 * Mingkun Zhang, Jianing Li, Wei Chen, Jiafeng Guo, Xueqi Cheng, Classifier Guidance Enhances Diffusion-based Purification by Preserviong Predictive Information. *The 27th European Conference on Artifitial Intelligence(**ECAI**)*, 2024.
