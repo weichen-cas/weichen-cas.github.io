@@ -27,11 +27,13 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
            
 
 ## Conference/Journal Papers
+* Yuchen Wen, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng, Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective. *Findings of the Association for Computational Linguistics (**ACL 2025**)*, 2025.
+
 * Mingkun Zhang, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng, CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification.*The 13rd International Conference on Learning Representations(**ICLR**)*, 2025. 
 
 * Mingkun Zhang, Keping Bi, Wei Chen, Quanrun Chen, Jiafeng Guo, Xueqi Cheng, CausalDiff: Causality-Inspired Disentanglement via Difussion Model for Adversarial Defense. *The 38th Annual Conference on Neural Information Processing systems(**NeurIPS**)*, 2024.
 
-* Yubao Tang, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen and Xueqi Cheng. Generative Retrieval Meets Multi-Graded Relevance. *The Thirty-eighth Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**)*, 2024
+* Yubao Tang, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen and Xueqi Cheng. Generative Retrieval Meets Multi-Graded Relevance. *The Thirty-eighth Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**)*, 2024.
 
 * Mingkun Zhang, Jianing Li, Wei Chen, Jiafeng Guo, Xueqi Cheng, Classifier Guidance Enhances Diffusion-based Purification by Preserviong Predictive Information. *The 27th European Conference on Artifitial Intelligence(**ECAI**)*, 2024.
   
