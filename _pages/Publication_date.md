@@ -27,7 +27,7 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
            
 
 ## Conference/Journal Papers
-* Yuchen Wen, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng, Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective. *Findings of the Association for Computational Linguistics (**ACL 2025**)*, 2025.
+* Yuchen Wen, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng, Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective. *Findings of the Association for Computational Linguistics (**ACL 2025**)*, 2025. ([Project Webpage](https://yuchenwen1.github.io/ImplicitBiasEvaluation/))
 
 * Mingkun Zhang, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng, CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification.*The 13rd International Conference on Learning Representations(**ICLR**)*, 2025. 
 
