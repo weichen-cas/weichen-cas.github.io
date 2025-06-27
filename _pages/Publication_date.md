@@ -27,7 +27,7 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
            
 
 ## Conference/Journal Papers
-*Junjie Nan, Jianing Li, Wei Chen, Mingkun Zhang, Xueqi Cheng, NAPPure: Adaversarial Purification for Robust Image Classification under Non-Additive Perturbations. *IEEE/CVF International Conference on Computer Vision (**ICCV**)*, 2025.
+* Junjie Nan, Jianing Li, Wei Chen, Mingkun Zhang, Xueqi Cheng, NAPPure: Adaversarial Purification for Robust Image Classification under Non-Additive Perturbations. *IEEE/CVF International Conference on Computer Vision (**ICCV**)*, 2025.
 
 * Yuchen Wen, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng, Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective. *Findings of the Association for Computational Linguistics (**ACL 2025**)*, 2025. ([Project Webpage](https://yuchenwen1.github.io/ImplicitBiasEvaluation/))
 
