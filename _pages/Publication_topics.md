@@ -20,7 +20,7 @@ You can also find my recent publications on my [Google Scholar profile](https://
 ## Trustworthy Machine Learning
 * Junjie Nan, Jianing Li, Wei Chen, Mingkun Zhang, Xueqi Cheng, NAPPure: Adaversarial Purification for Robust Image Classification under Non-Additive Perturbations. *IEEE/CVF International Conference on Computer Vision (**ICCV**)*, 2025.
   
-* Yuchen Wen, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng, Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective. *Findings of the Association for Computational Linguistics (**ACL 2025**)*, 2025.
+* Yuchen Wen, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng, Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective. *Findings of the Association for Computational Linguistics (**ACL**)*, 2025.
   
 * Mingkun Zhang, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng, CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification.*The 13rd International Conference on Learning Representations(**ICLR**)*, 2025. 
 
