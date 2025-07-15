@@ -14,10 +14,6 @@ Students
 * Mingkun Zhang (co-supervised with Prof. Xueqi Cheng)
   
 <img src="https://weichen-cas.github.io/_pages/img/mingkun-证件.jpg" style="zoom:5%" height="200">
-
-* [Bohan Wang](https://bhwangfy.github.io) (co-supervised with Prof. Zhi-Ming Ma @ USTC)
-
-<img src="https://weichen-cas.github.io/_pages/img/bohan.jpg" style="zoom:5%" height="200">
   
 * Wei Huang (co-supervised with Prof. Xueqi Cheng)
 
@@ -63,12 +59,12 @@ Students
 
 Alumni (Graduated Students and Long-term Interns in MSRA)
 ======
+* [Bohan Wang](https://bhwangfy.github.io), Alibaba Qwen 
 * Ling Pan, HKUST
-* Yue Wang, Microsoft
-* Li He, 2019, Qiyuan Lab
-* Shuxin Zheng, Microsoft
+* Yue Wang, Zhongguancun Academy
+* Li He, Qiyuan Lab
 * Shizhao Sun,  Microsoft
-* Qi Meng, CAS
+* Qi Meng, AMSS CAS
 * Haifang Li, Baidu
 * Fei Tian, Meta
 * Di He, Peking University
