@@ -62,8 +62,9 @@ Alumni (Graduated Students and Long-term Interns in MSRA)
 * [Bohan Wang](https://bhwangfy.github.io), Alibaba Qwen 
 * Ling Pan, HKUST
 * Yue Wang, Zhongguancun Academy
+* Xufang Luo, Microsoft Research
 * Li He, Qiyuan Lab
-* Shizhao Sun,  Microsoft
+* Shizhao Sun, Microsoft Research
 * Qi Meng, AMSS CAS
 * Haifang Li, Baidu
 * Fei Tian, Meta
