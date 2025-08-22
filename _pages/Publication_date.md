@@ -27,6 +27,8 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
            
 
 ## Conference/Journal Papers
+* Wenjie Zhou, Bohan Wang, Wei Chen, Xueqi Cheng, BSFA: Leveraging the Subspace Dichotomy to Accelerate Neural Network Training. *2025 Conference on Empirical Methods in Natural Language Processing. (**EMNLP**)*, 2025. 
+  
 * Junjie Nan, Jianing Li, Wei Chen, Mingkun Zhang, Xueqi Cheng, NAPPure: Adaversarial Purification for Robust Image Classification under Non-Additive Perturbations. *IEEE/CVF International Conference on Computer Vision (**ICCV**)*, 2025.
 
 * Yuchen Wen, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng, Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective. *Findings of the Association for Computational Linguistics (**ACL**)*, 2025. ([Project Webpage](https://yuchenwen1.github.io/ImplicitBiasEvaluation/))
