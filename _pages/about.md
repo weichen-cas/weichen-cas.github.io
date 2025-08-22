@@ -13,7 +13,8 @@ I am a professor in the Key Laboratory of AI Safety in [Institute of Computing T
 My research area is machine learning, mainly focusing on its basic methods and theory. My current research interest is trustworthy machine learning, to make the training, the architecture, and the decision-making of machine learning (especially deep learning) be interpretable and controllable by human. Specifically, we are investigating the training dynamics of deep learning, the trustworthy-module-embedded architectures, and the distributional/adversarial robust learning. Previously, I did research in distributed machine learning and statistical ranking theory.  
 
 ## News
-* July. 2024 - Jan. 2025: Our serial work on adversarival robustness, i.e., COUP, CausalDiff and Clipure, are accepted by ECAI 2024, NeurIPS 2024 and ICLR 2025, respectively.
+* August 2025: Our work BSFA on pretraining acceleration is accepted by EMNLP 2025.
+* July 2024 - Jan 2025: Our serial work on adversarival robustness, i.e., COUP, CausalDiff, Clipure and NAPPure, are accepted by ECAI 2024, NeurIPS 2024, ICLR 2025 and ICCV 2015, respectively.
 * May 2024: Our paper on Adam's convergence is accepted by SIGKDD.
 * Dec 2023: We are organizing ICLR 2024 workshop "Bridging the Gap between Practice and Theory in Deep Learning (BGPT)". Welcome to join！For more details, please access to the workshop website [BGPT](https://sites.google.com/view/bgpt-iclr24/home).
 * Dec 2023: Our paper "Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off" is accepted by AAAI 2024.
