@@ -67,6 +67,8 @@ You can also find my recent publications on my [Google Scholar profile](https://
 
 
 ## Deep Learning Theory and Algorithms
+* Wenjie Zhou, Bohan Wang, Wei Chen, Xueqi Cheng, BSFA: Leveraging the Subspace Dichotomy to Accelerate Neural Network Training. *2025 Conference on Empirical Methods in Natural Language Processing. (**EMNLP**)*, 2025.
+  
 * Bohan Wang, Huishuai Zhang, Qi Meng, Ruoyu Sun, Zhi-Ming Ma, Wei Chen, Randomly-reshuffled Adam can provably converge under non-uniform smoothness. *The 30th SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, 2024.
   
 * Bohan Wang, Jingwen Fu, Huishuai Zhang, Nanning Zheng, Wei Chen. Closing the Gap between the Upper Bound and Lower Bound of Adam's Iteration Complexity. *Advances in Neural Information Processing Systems 37 (**NeurIPS**)*, 2023
