@@ -27,7 +27,9 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
            
 
 ## Conference/Journal Papers
-* Wenjie Zhou, Bohan Wang, Wei Chen, Xueqi Cheng, BSFA: Leveraging the Subspace Dichotomy to Accelerate Neural Network Training. *2025 Conference on Empirical Methods in Natural Language Processing. (**EMNLP**)*, 2025. 
+* Wenjie Zhou, Bohan Wang, Wei Chen, Xueqi Cheng, BSFA: Leveraging the Subspace Dichotomy to Accelerate Neural Network Training. *2025 Conference on Empirical Methods in Natural Language Processing. (**EMNLP**)*, 2025.
+
+* Shuangjie Fu, Du Su, Beining Huang, Fei Sun, Jingang Wang, Wei Chen, Huawei Shen, Xueqi Cheng, Jailbreak LLMs through Internal Stance Manipulation. *2025 Conference on Empirical Methods in Natural Language Processing. (**EMNLP**)*, 2025.  
   
 * Junjie Nan, Jianing Li, Wei Chen, Mingkun Zhang, Xueqi Cheng, NAPPure: Adaversarial Purification for Robust Image Classification under Non-Additive Perturbations. *IEEE/CVF International Conference on Computer Vision (**ICCV**)*, 2025.
 
