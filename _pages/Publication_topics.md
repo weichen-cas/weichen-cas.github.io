@@ -18,6 +18,8 @@ You can also find my recent publications on my [Google Scholar profile](https://
   <summary>Publication List by Date</summary><p> -->
 
 ## Trustworthy Machine Learning
+* Shuangjie Fu, Du Su, Beining Huang, Fei Sun, Jingang Wang, Wei Chen, Huawei Shen, Xueqi Cheng, Jailbreak LLMs through Internal Stance Manipulation. *2025 Conference on Empirical Methods in Natural Language Processing. (**EMNLP**)*, 2025.
+  
 * Junjie Nan, Jianing Li, Wei Chen, Mingkun Zhang, Xueqi Cheng, NAPPure: Adaversarial Purification for Robust Image Classification under Non-Additive Perturbations. *IEEE/CVF International Conference on Computer Vision (**ICCV**)*, 2025.
   
 * Yuchen Wen, Keping Bi, Wei Chen, Jiafeng Guo, Xueqi Cheng, Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective. *Findings of the Association for Computational Linguistics (**ACL**)*, 2025.
