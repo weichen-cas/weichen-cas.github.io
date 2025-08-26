@@ -57,10 +57,10 @@ Students
 
 
 
-Alumni (Graduated Students and Long-term Interns in MSRA)
+Alumni (Graduated Students and Long-term Interns at MSRA)
 ======
 * [Bohan Wang](https://bhwangfy.github.io), Alibaba Qwen 
-* Ling Pan, HKUST
+* [Ling Pan](https://ling-pan.github.io/), HKUST
 * Yue Wang, Zhongguancun Academy
 * Xufang Luo, Microsoft Research
 * Li He, Qiyuan Lab
