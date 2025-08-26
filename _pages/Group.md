@@ -61,14 +61,14 @@ Alumni (Graduated Students and Long-term Interns at MSRA)
 ======
 * [Bohan Wang](https://bhwangfy.github.io), Alibaba Qwen 
 * [Ling Pan](https://ling-pan.github.io/), HKUST
-* Yue Wang, Zhongguancun Academy
+* [Yue Wang](https://www.bjzgca.edu.cn/teacher/4b6e5ed12ce4492da61c808b9d48a44a), Zhongguancun Academy
 * Xufang Luo, Microsoft Research
 * Li He, Qiyuan Lab
 * Shizhao Sun, Microsoft Research
-* Qi Meng, AMSS CAS
+* [Qi Meng](http://homepage.amss.ac.cn/research/homePage/a8636013d63440498442e91a549202f1/myHomePage.html), AMSS CAS
 * Haifang Li, Baidu
 * Fei Tian, Meta
-* Di He, Peking University
+* [Di He](https://dihe-pku.github.io/), Peking University
 * Xinxin Yang, Inno Asset Management
 * Lei Yao, Sunshine Insurance
 
