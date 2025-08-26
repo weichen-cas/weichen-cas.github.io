@@ -73,6 +73,8 @@ You can also find my recent publications on my [Google Scholar profile](https://
   
 * Bohan Wang, Huishuai Zhang, Qi Meng, Ruoyu Sun, Zhi-Ming Ma, Wei Chen, Randomly-reshuffled Adam can provably converge under non-uniform smoothness. *The 30th SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, 2024.
   
+* Wenjie Zhou, Bohan Wang, Wei Chen, Zhi-Ming Ma, Xueqi Cheng, Momentum Gradient Descent over single-neuron linear network: rich behaviors of limiting Sharpness. *Bridging the Gap Between Practice and Theory in Deep Learning (BGPT) ICLR workshop*, 2024.
+  
 * Bohan Wang, Jingwen Fu, Huishuai Zhang, Nanning Zheng, Wei Chen. Closing the Gap between the Upper Bound and Lower Bound of Adam's Iteration Complexity. *Advances in Neural Information Processing Systems 37 (**NeurIPS**)*, 2023
   
 * Bohan Wang, Huishuai Zhang, Zhi-Ming Ma, Wei Chen, Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions. *The 36th Annual Conference on Learning Theory (**COLT**)*, 2023.
