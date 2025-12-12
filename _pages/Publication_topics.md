@@ -195,6 +195,8 @@ Accepted by **Physical Review E**, 2021.
 *In Proceedings of the 26th International Joint Conference on Artificial Intelligence (**IJCAI**)*, 2016.
 
 ## Ranking and Auctions
+* Wei Huang, Keping Bi, Yingqiong Cai, Wei Chen, Jiafeng Guo, Xueqi Cheng, How Do LLM-Generated Texts Impact Term-Based Retrieval Models? *The 18th ACM International Conference on Web Search and Data Mining (**WSDM**)*, 2025.
+
 * Yinqiong Cai, Keping Bi, Yixing Fan, Jiafeng Guo, Wei Chen, Xueqi Cheng, L^2R:Lifelong Learning for First-stage Retrieval with Backward-Compatible Representations. *The 32nd ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2023.
 
 * Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Yixing Fan, Xueqi Cheng, Continual Learning for Generative Retieval over Dynamic Corpora. *The 32nd ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2023.
