@@ -27,6 +27,8 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
            
 
 ## Conference/Journal Papers
+* Wei Huang, Keping Bi, Yingqiong Cai, Wei Chen, Jiafeng Guo, Xueqi Cheng, How Do LLM-Generated Texts Impact Term-Based Retrieval Models? *The 18th ACM International Conference on Web Search and Data Mining (**WSDM**)*, 2025.
+
 * Wenjie Zhou, Bohan Wang, Wei Chen, Xueqi Cheng, BSFA: Leveraging the Subspace Dichotomy to Accelerate Neural Network Training. *2025 Conference on Empirical Methods in Natural Language Processing. (**EMNLP**)*, 2025.
 
 * Shuangjie Fu, Du Su, Beining Huang, Fei Sun, Jingang Wang, Wei Chen, Huawei Shen, Xueqi Cheng, Jailbreak LLMs through Internal Stance Manipulation. *2025 Conference on Empirical Methods in Natural Language Processing. (**EMNLP**)*, 2025.  
