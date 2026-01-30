@@ -18,7 +18,7 @@ You can also find my recent publications on my [Google Scholar profile](https://
   <summary>Publication List by Date</summary><p> -->
 
 ## Trustworthy Machine Learning
-* Shiqi Sun, Du Su, Wei Chen, Xueqi Cheng, Rethinking Implicit Hate Speech Detection: Foucusing on Latent Hate Components via Dual-Process Augmentation, *The ACM Web Conference (**WWW**)*, 2026.
+* Shiqi Sun, Du Su, Wei Chen, Xueqi Cheng, Rethinking Implicit Hate Speech Detection: Focusing on Latent Hate Components via Dual-Process Augmentation, *The ACM Web Conference (**WWW**)*, 2026.
 
 * Shuangjie Fu, Du Su, Beining Huang, Fei Sun, Jingang Wang, Wei Chen, Huawei Shen, Xueqi Cheng, Jailbreak LLMs through Internal Stance Manipulation. *2025 Conference on Empirical Methods in Natural Language Processing. (**EMNLP**)*, 2025.
   
