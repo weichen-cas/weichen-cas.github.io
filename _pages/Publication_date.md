@@ -27,7 +27,7 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
            
 
 ## Conference/Journal Papers
-* Shiqi Sun, Du Su, Wei Chen, Xueqi Cheng, Rethinking Implicit Hate Speech Detection: Foucusing on Latent Hate Components via Dual-Process Augmentation, *The ACM Web Conference (**WWW**)*, 2026.
+* Shiqi Sun, Du Su, Wei Chen, Xueqi Cheng, Rethinking Implicit Hate Speech Detection: Focusing on Latent Hate Components via Dual-Process Augmentation, *The ACM Web Conference (**WWW**)*, 2026.
   
 * Wei Huang, Keping Bi, Yingqiong Cai, Wei Chen, Jiafeng Guo, Xueqi Cheng, How Do LLM-Generated Texts Impact Term-Based Retrieval Models? *The 18th ACM International Conference on Web Search and Data Mining (**WSDM**)*, 2025.
 
