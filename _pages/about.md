@@ -13,6 +13,7 @@ My research area is machine learning, mainly focusing on its basic methods and t
  
 
 ## News
+* Feb 2026: Our paper on transferable attack is accepted by CVPR.
 * June 2025 - Jan 2026: Our papers on the AI Safety Evaluation in terms of implicit bias, implicit hate speech, and source bias, are accepted by ACL2025, WebConf2026, and WSDM2026, recpectively.
 * August 2025: Our work BSFA on pretraining acceleration is accepted by EMNLP 2025 as an oral paper.
 * July 2024 - Jan 2025: Our serial work on adversarival robustness, i.e., COUP, CausalDiff, Clipure and NAPPure, are accepted by ECAI2024, NeurIPS2024, ICLR2025 and ICCV2015, respectively.
