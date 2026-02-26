@@ -27,6 +27,8 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
            
 
 ## Conference/Journal Papers
+* Tongrui Su, Qingbin Li, Shengyu Zhu, Wei Chen, Xueqi Cheng, RaPA: Enhancing Transferable Targeted Attacks via Random Parameter Pruning, *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2026
+  
 * Shiqi Sun, Du Su, Wei Chen, Xueqi Cheng, Rethinking Implicit Hate Speech Detection: Focusing on Latent Hate Components via Dual-Process Augmentation, *The ACM Web Conference (**WWW**)*, 2026.
   
 * Wei Huang, Keping Bi, Yingqiong Cai, Wei Chen, Jiafeng Guo, Xueqi Cheng, How Do LLM-Generated Texts Impact Term-Based Retrieval Models? *The 18th ACM International Conference on Web Search and Data Mining (**WSDM**)*, 2025.
