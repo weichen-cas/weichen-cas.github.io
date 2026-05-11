@@ -27,6 +27,12 @@ Book chapter in Multi-Agent System and its Applications. *Tsinghua University Pr
            
 
 ## Conference/Journal Papers
+* Wenjie Zhou, Bohan Wang, Hongtao Zhang, Chenxi Jia, Wei Chen, Xueqi Cheng，Extra-Merge: Tracing the Rank-1 Subspace of Model Merging in Language Model Pre-Training，*In Proceedings of the 43rd International Conference on Machine Learning  (**ICML**)*, 2026.
+
+* Hongtao Zhang, Wenjie Zhou, Chenxi Jia, Wei Chen, Xueqi Cheng，The Stability of Singular Distribution: A Spectral Perspective on the Two-Phase Dynamics of Language Model Pre-training，*In Proceedings of the 43rd International Conference on Machine Learning  (**ICML**)*, 2026.
+
+* Yancheng Chen, Dun Ma, Shuai Zhang, Yang Liu, Xixun Lin, Xiangyu Zhao, Wenguo Yang, Wei Chen, Chuan Zhou，Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective，*In Proceedings of the 43rd International Conference on Machine Learning  (**ICML**)*, 2026.
+
 * Tongrui Su, Qingbin Li, Shengyu Zhu, Wei Chen, Xueqi Cheng, RaPA: Enhancing Transferable Targeted Attacks via Random Parameter Pruning, *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2026.
   
 * Shiqi Sun, Du Su, Wei Chen, Xueqi Cheng, Rethinking Implicit Hate Speech Detection: Focusing on Latent Hate Components via Dual-Process Augmentation, *The ACM Web Conference (**WWW**)*, 2026.
