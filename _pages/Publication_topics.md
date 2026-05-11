@@ -17,7 +17,7 @@ You can also find my recent publications on my [Google Scholar profile](https://
 <!-- <details>
   <summary>Publication List by Date</summary><p> -->
 
-## Trustworthy Machine Learning
+## Trustworthy AI
 * Tongrui Su, Qingbin Li, Shengyu Zhu, Wei Chen, Xueqi Cheng, RaPA: Enhancing Transferable Targeted Attacks via Random Parameter Pruning, *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)*, 2026.
   
 * Shiqi Sun, Du Su, Wei Chen, Xueqi Cheng, Rethinking Implicit Hate Speech Detection: Focusing on Latent Hate Components via Dual-Process Augmentation, *The ACM Web Conference (**WWW**)*, 2026.
@@ -73,6 +73,12 @@ You can also find my recent publications on my [Google Scholar profile](https://
 
 
 ## Deep Learning Theory and Algorithms
+* Wenjie Zhou, Bohan Wang, Hongtao Zhang, Chenxi Jia, Wei Chen, Xueqi Cheng，Extra-Merge: Tracing the Rank-1 Subspace of Model Merging in Language Model Pre-Training，*In Proceedings of the 43rd International Conference on Machine Learning  (**ICML**)*, 2026.
+
+* Hongtao Zhang, Wenjie Zhou, Chenxi Jia, Wei Chen, Xueqi Cheng，The Stability of Singular Distribution: A Spectral Perspective on the Two-Phase Dynamics of Language Model Pre-training，*In Proceedings of the 43rd International Conference on Machine Learning  (**ICML**)*, 2026.
+
+* Yancheng Chen, Dun Ma, Shuai Zhang, Yang Liu, Xixun Lin, Xiangyu Zhao, Wenguo Yang, Wei Chen, Chuan Zhou，Message Tuning Outshines Graph Prompt Tuning: A Prismatic Space Perspective，*In Proceedings of the 43rd International Conference on Machine Learning  (**ICML**)*, 2026.
+
 * Wenjie Zhou, Bohan Wang, Wei Chen, Xueqi Cheng, BSFA: Leveraging the Subspace Dichotomy to Accelerate Neural Network Training. *2025 Conference on Empirical Methods in Natural Language Processing. (**EMNLP**)*, 2025.
   
 * Bohan Wang, Huishuai Zhang, Qi Meng, Ruoyu Sun, Zhi-Ming Ma, Wei Chen, Randomly-reshuffled Adam can provably converge under non-uniform smoothness. *The 30th SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**)*, 2024.
